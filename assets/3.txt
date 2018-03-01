@@ -1,0 +1,69 @@
+31 - Matières premières (et fournitures)
+311 - Matières (ou groupe) A
+312 - Matières (ou groupe) B
+317 – Fournitures A, B, C,
+32 - Autres approvisionnements
+321 - Matières consommables
+3211 - Matières (ou groupe) C
+3212 - Matières (ou groupe) D
+322 - Fournitures consommables
+3221 - Combustibles
+3222 – Produits d'entretien
+3223 - Fournitures d'atelier et d'usine
+3224 - Fournitures de magasin
+3225 - Fournitures de bureau
+326 – Emballages
+3261 - Emballages perdus
+3265 - Emballages récupérables non identifiables
+3267 - Emballages à usage mixte
+33 - En-cours de production de biens
+331 - Produits en cours
+3311 – Produits en cours P 1
+3312 – Produits en cours P 2
+335 - Travaux en cours
+3351 – Travaux en cours T 1
+3352 – Travaux en cours T 2
+34 - En-cours de production de services
+341 - Etudes en cours
+3411 - Etudes en cours E 1
+3412 - Etudes en cours E 2
+345 - Prestations de services en cours
+3451 - Prestations de services S 1
+3452 - Prestations de services S 2
+35 - Stocks de produits
+351 - Produits intermédiaires
+3511 – Produits intermédiaires (ou groupe) A
+3512 – Produits intermédiaires (ou groupe) B
+355 - Produits finis
+3551 – Produits finis (ou groupe) A
+3552 – Produits finis (ou groupe) B
+358 - Produits résiduels (ou matières de récupération)
+3581 – Déchets
+3585 – Rebuts
+3586 - Matières de récupération
+36 – (compte à ouvrir, le cas échéant, sous l'intitulé "Stocks provenant d'immobilisations")
+37 - Stocks de marchandises
+371 - Marchandises (ou groupe) A
+372 - Marchandises (ou groupe) B
+38 - (lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation)
+39 - Dépréciations des stocks et en-cours
+391 - Dépréciations des matières premières (et fournitures)
+3911 - Matières (ou groupe) A
+3912 - Matières (ou groupe) B
+3917 - Fournitures A, B, C,
+392 - Dépréciations des autres approvisionnements
+3921 - Matières consommables (même ventilation que celle du compte 321)
+3922 - Fournitures consommables (même ventilation que celle du compte 322)
+3926 – Emballages (même ventilation que celle du compte 326)
+393 - Dépréciations des en-cours de production de biens
+3931 - Produits en cours (même ventilation que celle du compte 331)
+3935 - Travaux en cours (même ventilation que celle du compte 335)
+394 - Dépréciations des en-cours de production de services
+3941 - Etudes en cours (même ventilation que celle du compte 341)
+3945 - Prestations de services en cours (même ventilation que celle du compte 345)
+395 - Dépréciations des stocks de produits
+3951 - Produits intermédiaires (même ventilation que celle du compte 351)
+3955 - Produits finis (même ventilation que celle du compte 355)
+397 - Dépréciations des stocks de marchandises
+3971 - Marchandise (ou groupe) A
+3972 - Marchandise (ou groupe) B

@@ -1,0 +1,134 @@
+10 - Capital et réserves
+101 – Capital
+1011 - Capital souscrit - non appelé
+1012 - Capital souscrit - appelé, non versé
+1013 - Capital souscrit - appelé, versé
+10131 - Capital non amorti
+10132 - Capital amorti
+1018 - Capital souscrit soumis à des réglementations particulières
+102 - Fonds fiduciaires
+104 - Primes liées au capital social
+1041 - Primes d'émission
+1042 - Primes de fusion
+1043 - Primes d'apport
+1044 - Primes de conversion d'obligations en actions
+1045 - Bons de souscription d'actions
+105 - Ecarts de réévaluation
+1051 - Réserve spéciale de réévaluation
+1052 - Ecart de réévaluation libre
+1053 - Réserve de réévaluation
+1055 - Ecarts de réévaluation (autres opérations légales)
+1057 - Autres écarts de réévaluation en France
+1058 - Autres écarts de réévaluation à l'Etranger
+106 - Réserves
+1061 - Réserve légale
+10611 - Réserve légale proprement dite
+10612 - Plus-values nettes à long terme
+1062 - Réserves indisponibles
+1063 - Réserves statutaires ou contractuelles
+1064 - Réserves réglementées
+10641 - Plus-values nettes à long terme
+10643 - Réserves consécutives à l'octroi de subventions d'investissement
+10648 - Autres réserves réglementées
+1068 - Autres réserves
+10681 - Réserve de propre assureur
+10688 - Réserves diverses
+107 - Ecart d'équivalence
+108 - Compte de l'exploitant
+109 – Actionnaires - Capital souscrit - non appelé
+11 - Report à nouveau (solde créditeur ou débiteur)
+110 - Report à nouveau (solde créditeur)
+119 - Report à nouveau (solde débiteur)
+12 - Résultat de l'exercice (bénéfice ou perte)
+120 - Résultat de l'exercice (bénéfice)
+129 - Résultat de l'exercice (perte)
+13 - Subventions d'investissement
+131 – Subventions d'équipement
+1311 – Etat
+1312 – Régions
+1313 - Départements
+1314 - Communes
+1315 - Collectivités publiques
+1316 - Entreprises publiques
+1317 - Entreprises et organismes privés
+1318 – Autres
+138 - Autres subventions d’investissement (même ventilation que celle du compte 131)
+139 - Subventions d'investissement inscrites au compte de résultat
+1391 - Subventions d'équipement
+13911 – Etat
+13912 - Régions
+13913 - Départements
+13914 - Communes
+13915 - Collectivités publiques
+13916 - Entreprises publiques
+13917 - Entreprises et organismes privés
+13918 – Autres
+1398 - Autres subventions d’investissement (même ventilation que celle du compte 1391)
+14 - Provisions réglementées
+142 - Provisions réglementées relatives aux immobilisations
+1423 - Provisions pour reconstitution des gisements miniers et pétroliers
+1424 - Provisions pour investissement (participation des salariés)
+143 - Provisions réglementées relatives aux stocks
+1431 - Hausse des prix
+1432 - Fluctuation des cours
+144 - Provisions réglementées relatives aux autres éléments de l'actif
+145 - Amortissements dérogatoires
+146 - Provision spéciale de réévaluation
+147 - Plus-values réinvesties
+148 - Autres provisions réglementées
+15 - Provisions
+151 - Provisions pour risques
+1511 - Provisions pour litiges
+1512 - Provisions pour garanties données aux clients
+1513 - Provisions pour pertes sur marchés à terme
+1514 - Provisions pour amendes et pénalités
+1515 - Provisions pour pertes de change
+1516 - Provisions pour pertes sur contrats
+1518 - Autres provisions pour risques
+153 - Provisions pour pensions et obligations similaires
+154 - Provisions pour restructurations
+155 - Provisions pour impôts
+156 - Provisions pour renouvellement des immobilisations (entreprises concessionnaires)
+157 - Provisions pour charges à répartir sur plusieurs exercices
+1572 - Provisions pour gros entretien ou grandes révisions
+158 – Autres provisions pour charges
+1581 - Provisions pour remises en état
+16 - Emprunts et dettes assimilées
+161 - Emprunts obligataires convertibles
+162 – Obligations représentatives de passifs nets remis en fiducie
+163 - Autres emprunts obligataires
+164 - Emprunts auprès des établissements de crédit
+165 - Dépôts et cautionnements reçus
+1651 – Dépôts
+1655 - Cautionnements
+166 - Participation des salariés aux résultats
+1661 - Comptes bloqués
+1662 - Fonds de participation
+167 - Emprunts et dettes assortis de conditions particulières
+1671 - Emissions de titres participatifs
+1674 – Avances conditionnées de l'Etat
+1675 - Emprunts participatifs
+168 - Autres emprunts et dettes assimilées
+1681 - Autres emprunts
+1685 - Rentes viagères capitalisées
+1687 - Autres dettes
+1688 – Intérêts courus
+16881 - sur emprunts obligataires convertibles
+16883 - sur autres emprunts obligataires
+16884 - sur emprunts auprès des établissements de crédit
+16885 - sur dépôts et cautionnements reçus
+16886 - sur participation des salariés aux résultats
+16887 - sur emprunts et dettes assortis de conditions particulières
+16888 - sur autres emprunts et dettes assimilées
+169 - Primes de remboursement des obligations
+17 - Dettes rattachées à des participations
+171 - Dettes rattachées à des participations (groupe)
+174 - Dettes rattachées à des participations (hors groupe)
+178 - Dettes rattachées à des sociétés en participation
+1781 - Principal
+1788 – Intérêts courus
+18 - Comptes de liaison des établissements et sociétés en participation
+181 - Comptes de liaison des établissements
+186 - Biens et prestations de services échangés entre établissements (charges)
+187 - Biens et prestations de services échangés entre établissements (produits)
+188 - Comptes de liaison des sociétés en participation

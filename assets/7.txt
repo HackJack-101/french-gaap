@@ -1,0 +1,130 @@
+70 - Ventes de produits fabriqués, prestations de services, marchandises
+701 - Ventes de produits finis
+7011 - Produits finis (ou groupe) A
+7012 - Produits finis (ou groupe) B
+702 - Ventes de produits intermédiaires
+703 - Ventes de produits résiduels
+704 - Travaux
+7041 - Travaux de catégorie (ou activité) A
+7042 - Travaux de catégorie (ou activité) B
+705 - Etudes
+706 - Prestations de services
+707 - Ventes de marchandises
+7071 - Marchandises (ou groupe) A
+7072 - Marchandises (ou groupe) B
+708 - Produits des activités annexes
+7081 - Produits des services exploités dans l'intérêt du personnel
+7082 - Commissions et courtages
+7083 - Locations diverses
+7084 - Mise à disposition de personnel facturée
+7085 - Ports et frais accessoires facturés
+7086 - Bonis sur reprises d'emballages consignés
+7087 - Bonifications obtenues des clients et primes sur ventes
+7088 - Autres produits d'activités annexes (cessions d'approvisionnements,)
+709 - Rabais, remises et ristournes accordés par l'entreprise
+7091 - sur ventes de produits finis
+7092 - sur ventes de produits intermédiaires
+7094 - sur travaux
+7095 - sur études
+7096 - sur prestations de services
+7097 - sur ventes de marchandises
+7098 - sur produits des activités annexes
+71 - Production stockée (ou déstockage)
+713 - Variation des stocks (en-cours de production, produits)
+7133 - Variation des en-cours de production de biens
+71331 - Produits en cours
+71335 - Travaux en cours
+7134 - Variation des en-cours de production de services
+71341 - Etudes en cours
+71345 - Prestations de services en cours
+7135 - Variation des stocks de produits
+71351 - Produits intermédiaires
+71355 - Produits finis
+71358 - Produits résiduels
+72 - Production immobilisée
+721 - Immobilisations incorporelles
+722 - Immobilisations corporelles
+74 - Subventions d'exploitation
+75 - Autres produits de gestion courante
+751 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+7511 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels
+7516 - Droits d'auteur et de reproduction
+7518 - Autres droits et valeurs similaires
+752 - Revenus des immeubles non affectés à des activités professionnelles
+753 - Jetons de présence et rémunérations d'administrateurs, gérants,
+754 - Ristournes perçues des coopératives (provenant des excédents)
+755 - Quote-parts de résultat sur opérations faites en commun
+7551 - Quote-part de perte transférée (comptabilité du gérant)
+7555 - Quote-part de bénéfice attribuée (comptabilité des associés non - gérants)
+758 - Produits divers de gestion courante
+76 - Produits financiers
+761 - Produits de participations
+7611 - Revenus des titres de participation
+7612 – Produits de la fiducie, résultat de la période
+7616 - Revenus sur autres formes de participation
+7617 - Revenus des créances rattachées à des participations
+762 - Produits des autres immobilisations financières
+7621 - Revenus des titres immobilisés
+7626 - Revenus des prêts
+7627 - Revenus des créances immobilisées
+763 - Revenus des autres créances
+7631 - Revenus des créances commerciales
+7638 - Revenus des créances diverses
+764 - Revenus des valeurs mobilières de placement
+765 - Escomptes obtenus
+766 - Gains de change
+767 - Produits nets sur cessions de valeurs mobilières de placement
+768 - Autres produits financiers
+77 - Produits exceptionnels
+771 - Produits exceptionnels sur opérations de gestion
+7711 - Dédits et pénalités perçus sur achats et sur ventes
+7713 - Libéralités reçues
+7714 - Rentrées sur créances amorties
+7715 - Subventions d'équilibre
+7717 - Dégrèvements d'impôts autres qu'impôts sur les bénéfices
+7718 - Autres produits exceptionnels sur opérations de gestion
+772 - (Compte à la disposition des entités pour enregistrer, en cours d'exercice, les produits sur exercices antérieurs)
+774 – Opérations de constitution ou liquidation des fiducies
+7741 – Opérations liées à la constitution de fiducie – Transfert des éléments
+7742 – Opérations liées à la liquidation de la fiducie
+775 - Produits des cessions d'éléments d'actif
+7751 - Immobilisations incorporelles
+7752 - Immobilisations corporelles
+7756 - Immobilisations financières
+7758 - Autres éléments d'actif
+777 - Quote-part des subventions d'investissement virée au résultat de l'exercice
+778 - Autres produits exceptionnels
+7781 - Bonis provenant de clauses d'indexation
+7782 - Lots
+7783 - Bonis provenant du rachat par l'entreprise d'actions et d'obligations émises par elle - même
+7788 - Produits exceptionnels divers
+78 - Reprises sur amortissements, dépréciations et provisions
+781 - Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d'exploitation)
+7811 - Reprises sur amortissements des immobilisations incorporelles et corporelles
+78111 - Immobilisations incorporelles
+78112 - Immobilisations corporelles
+7815 - Reprises sur provisions d'exploitation
+7816 - Reprises sur dépréciations des immobilisations incorporelles et corporelles
+78161 - Immobilisations incorporelles
+78162 - Immobilisations corporelles
+7817 - Reprises sur dépréciations des actifs circulants
+78173 - Stocks et en-cours
+78174 - Créances
+786 - Reprises sur provisions pour risques et dépréciations (à inscrire dans les produits financiers)
+7865 - Reprises sur provisions financières
+7866 - Reprises sur dépréciations des éléments financiers
+78662 - Immobilisations financières
+78665 - Valeurs mobilières de placements
+787 - Reprises sur provisions et dépréciations (à inscrire dans les produits exceptionnels)
+7872 - Reprises sur provisions réglementées (immobilisations)
+78725 - Amortissements dérogatoires
+78726 - Provision spéciale de réévaluation
+78727 - Plus-values réinvesties
+7873 - Reprises sur provisions réglementées (stocks)
+7874 - Reprises sur autres provisions réglementées
+7875 - Reprises sur provisions exceptionnelles
+7876 - Reprises sur dépréciations exceptionnelles
+79 - Transferts de charges
+791 - Transferts de charges d'exploitation
+796 - Transferts de charges financières
+797 - Transferts de charges exceptionnelles

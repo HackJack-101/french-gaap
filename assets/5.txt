@@ -1,0 +1,54 @@
+50 - Valeurs mobilières de placement
+501 - Parts dans des entreprises liées
+502 - Actions propres
+5021 – Actons destinées à être attribuées aux employés et affectées à des plans déterminés
+5022 – Actons disponibles pour être attribuées aux employés ou pour la régularisation des cours de bourse
+503 - Actions
+5031 - Titres cotés
+5035 - Titres non cotés
+504 - Autres titres conférant un droit de propriété
+505 - Obligations et bons émis par la société et rachetés par elle
+506 - Obligations
+5061 - Titres cotés
+5065 - Titres non cotés
+507 - Bons du Trésor et bons de caisse à court terme
+508 - Autres valeurs mobilières de placement et autres créances assimilées
+5081 - Autres valeurs mobilières
+5082 - Bons de souscription
+5088 - Intérêts courus sur obligations, bons et valeurs assimilés
+509 - Versements restant à effectuer sur valeurs mobilières de placement non libérées
+51 - Banques, établissements financiers et assimilés
+511 - Valeurs à l'encaissement
+5111 - Coupons échus à l'encaissement
+5112 - Chèques à encaisser
+5113 - Effets à l'encaissement
+5114 - Effets à l'escompte
+512 - Banques
+5121 - Comptes en monnaie nationale
+5124 - Comptes en devises
+514 - Chèques postaux
+515 - " Caisses " du Trésor et des établissements publics
+516 - Sociétés de bourse
+517 - Autres organismes financiers
+518 - Intérêts courus
+5181 - Intérêts courus à payer
+5188 - Intérêts courus à recevoir
+519 - Concours bancaires courants
+5191 - Crédit de mobilisation de créances commerciales
+5193 - Mobilisation de créances nées à l'étranger
+5198 - Intérêts courus sur concours bancaires courants
+52 - Instruments de trésorerie
+53 - Caisse
+531 - Caisse siège social
+5311 - Caisse en monnaie nationale
+5314 - Caisse en devises
+532 - Caisse succursale (ou usine) A
+533 - Caisse succursale (ou usine) B
+54 - Régies d'avance et accréditifs
+58 - Virements internes
+59 – Dépréciations des comptes financiers
+590 - Dépréciations des valeurs mobilières de placement
+5903 - Actions
+5904 - Autres titres conférant un droit de propriété
+5906 - Obligations
+5908 - Autres valeurs mobilières de placement et créances assimilées

@@ -1,0 +1,159 @@
+40 - Fournisseurs et comptes rattachés
+400 - Fournisseurs et comptes rattachés
+401 – Fournisseurs
+4011 - Fournisseurs - Achats de biens et prestations de services
+4017 - Fournisseurs - Retenues de garantie
+403 – Fournisseurs - Effets à payer
+404 – Fournisseurs d'immobilisations
+4041 - Fournisseurs - Achats d'immobilisations
+4047 - Fournisseurs d'immobilisations – Retenues de garantie
+405 – Fournisseurs d'immobilisations - Effets à payer
+408 – Fournisseurs - Factures non parvenues
+4081 - Fournisseurs
+4084 - Fournisseurs d'immobilisations
+4088 - Fournisseurs – Intérêts courus
+409 - Fournisseurs débiteurs
+4091 - Fournisseurs - Avances et acomptes versés sur commandes
+4096 - Fournisseurs - Créances pour emballages et matériel à rendre
+4097 - Fournisseurs - Autres avoirs
+40971 - Fournisseurs d'exploitation
+40974 - Fournisseurs d'immobilisations
+4098 - Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus
+41 - Clients et comptes rattachés
+410 - Clients et comptes rattachés
+411 – Clients
+4111 - Clients - Ventes de biens ou de prestations de services
+4117 - Clients - Retenues de garantie
+413 - Clients - Effets à recevoir
+416 - Clients douteux ou litigieux
+418 - Clients - Produits non encore facturés
+4181 - Clients - Factures à établir
+4188 - Clients - Intérêts courus
+419 - Clients créditeurs
+4191 - Clients - Avances et acomptes reçus sur commandes
+4196 - Clients - Dettes sur emballages et matériels consignés
+4197 - Clients - Autres avoirs
+4198 - Rabais, remises, ristournes à accorder et autres avoirs à établir
+42 - Personnel et comptes rattachés
+421 - Personnel - Rémunérations dues
+422 - Comités d'entreprises, d'établissement, …
+424 - Participation des salariés aux résultats
+4246 – Réserve spéciale
+4248 - Comptes courants
+425 - Personnel - Avances et acomptes
+426 - Personnel - Dépôts
+427 - Personnel - Oppositions
+428 - Personnel - Charges à payer et produits à recevoir
+4282 - Dettes provisionnées pour congés à payer
+4284 - Dettes provisionnées pour participation des salariés aux résultats
+4286 - Autres charges à payer
+4287 – Produits à recevoir
+43 - Sécurité sociale et autres organismes sociaux
+431 - Sécurité sociale
+437 - Autres organismes sociaux
+438 - Organismes sociaux - Charges à payer et produits à recevoir
+4382 – Charges sociales sur congés à payer
+4386 - Autres charges à payer
+4387 – Produits à recevoir
+44 - État et autres collectivités publiques
+441 - État - Subventions à recevoir
+4411 - Subventions d'investissement
+4417 - Subventions d'exploitation
+4418 - Subventions d'équilibre
+4419 – Avances sur subventions
+442 - Etat - Impôts et taxes recouvrables sur des tiers
+4424 - Obligataires
+4425 – Associés
+443 - Opérations particulières avec l'Etat les collectivités publiques, les organismes internationaux
+4431 - Créances sur l'Etat résultant de la suppression de la règle du décalage d'un mois en matière de TVA
+4438 - Intérêts courus sur créances figurant au 4431
+444 - Etat - Impôts sur les bénéfices
+445 - Etat - Taxes sur le chiffre d'affaires
+4452 - TVA due intracommunautaire
+4455 - Taxes sur le chiffre d'affaires à décaisser
+44551 – TVA à décaisser
+44558 - Taxes assimilées à la TVA
+4456 - Taxes sur le chiffre d'affaires déductibles
+44562 – TVA sur immobilisations
+44563 – TVA transférée par d'autres entreprises
+44566 – TVA sur autres biens et services
+44567 - Crédit de TVA à reporter
+44568 - Taxes assimilées à la TVA
+4457 - Taxes sur le chiffre d'affaires collectées par l'entreprise
+44571 – TVA collectée
+44578 - Taxes assimilées à la TVA
+4458 - Taxes sur le chiffre d'affaires à régulariser ou en attente
+44581 - Acomptes - Régime simplifié d'imposition
+44582 - Acomptes - Régime de forfait
+44583 - Remboursement de taxes sur le chiffre d'affaires demandé
+44584 – TVA récupérée d'avance
+44586 - Taxes sur le chiffre d'affaires sur factures non parvenues
+44587 - Taxes sur le chiffre d'affaires sur factures à établir
+446 - Obligations cautionnées
+447 - Autres impôts, taxes et versements assimilés
+448 - Etat - Charges à payer et produits à recevoir
+4482 – Charges fiscales sur congés à payer
+4486 – Charges à payer
+4487 – Produits à recevoir
+449 - Quotas d’émission à acquérir
+45 - Groupe et associés
+451 – Groupe
+455 - Associés - Comptes courants
+4551 - Principal
+4558 – Intérêts courus
+456 - Associés - Opérations sur le capital
+4561 – Associés - Comptes d'apport en société
+45611 - Apports en nature
+45615 - Apports en numéraire
+4562 - Apporteurs - Capital appelé, non versé
+45621 - Actionnaires - Capital souscrit et appelé, non versé
+45625 - Associés - Capital appelé, non versé
+4563 - Associés - Versements reçus sur augmentation de capital
+4564 – Associés - Versements anticipés
+4566 - Actionnaires défaillants
+4567 – Associés - Capital à rembourser
+457 - Associés - Dividendes à payer
+458 - Associés - Opérations faites en commun et en GIE
+4581 - Opérations courantes
+4588 – Intérêts courus
+46 - Débiteurs divers et créditeurs divers
+462 - Créances sur cessions d'immobilisations
+464 - Dettes sur acquisitions de valeurs mobilières de placement
+465 - Créances sur cessions de valeurs mobilières de placement
+467 - Autres comptes débiteurs ou créditeurs
+468 - Divers - Charges à payer et produits à recevoir
+4686 – Charges à payer
+4687 – Produits à recevoir
+47 - Comptes transitoires ou d'attente
+471 - Comptes d'attente
+472 - Comptes d'attente
+473 - Comptes d'attente
+474 - Comptes d'attente
+475 - Comptes d'attente
+476 - Différence de conversion - Actif
+4761 - Diminution des créances
+4762 - Augmentation des dettes
+4768 - Différences compensées par couverture de change
+477 - Différences de conversion - Passif
+4771 - Augmentation des créances
+4772 - Diminution des dettes
+4778 - Différences compensées par couverture de change
+478 - Autres comptes transitoires
+48 - Comptes de régularisation
+481 - Charges à répartir sur plusieurs exercices
+4816 - Frais d'émission des emprunts
+486 - Charges constatées d'avance
+487 - Produits constatés d'avance
+488 - Comptes de répartition périodique des charges et des produits
+4886 - Charges
+4887 - Produits
+49 - Dépréciations des comptes de tiers
+491 – Dépréciations des comptes de clients
+495 - Dépréciations des comptes du groupe et des associés
+4951 - Comptes du groupe
+4955 - Comptes courants des associés
+4958 - Opérations faites en commun et en GIE
+496 - Dépréciations des comptes de débiteurs divers
+4962 - Créances sur cessions d'immobilisations
+4965 - Créances sur cessions de valeurs mobilières de placement
+4967 - Autres comptes débiteurs
