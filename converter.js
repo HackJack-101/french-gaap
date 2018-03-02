@@ -30,8 +30,8 @@ const classes = [
         name: 'Classe 7 : Comptes de produits'
     }
 ];
-let finalResults = [];
-
+let treeResults = [];
+let flatResults = {};
 
 classes.forEach((c) => {
     let extractedResults = [];
@@ -44,7 +44,7 @@ classes.forEach((c) => {
 
         let lineSplit = classLine.split(SEPARATOR);
 
-        if(lineSplit.length !== 2){
+        if (lineSplit.length !== 2) {
             console.error('Error on lineSplit');
             console.error(lineSplit);
             process.exit(1);
@@ -62,9 +62,16 @@ classes.forEach((c) => {
     let formattedResults = [];
 
     extractedResults.forEach((line) => {
-        let code = line.code.toString();
+        let code = line.code.toLocaleLowerCase();
         let codeSize = code.length;
         let levels = [];
+
+        if (flatResults.hasOwnProperty(code)) {
+            console.error('Duplicated code: ' + code);
+            process.exit(1);
+        } else {
+            flatResults[code] = line.name;
+        }
 
         for (let i = 1; i < codeSize; i++) {
             levels.push(code.substr(0, i + 1));
@@ -88,18 +95,36 @@ classes.forEach((c) => {
                 }
                 root = root[el.levels[levelIndex]].content;
             }
-
         }
+
     });
 
-    finalResults.push(classResults);
+    treeResults.push(classResults);
 });
 
-fs.writeFile("./results.json", JSON.stringify(finalResults, null, 4), function (err) {
+fs.writeFile("./tree_list.json", JSON.stringify(treeResults, null, 4), function (err) {
     if (err) {
         return console.error(err);
     }
-
-    console.log("The file was saved!");
+    console.log("tree_list.json DONE");
+});
+fs.writeFile("./tree_list.min.json", JSON.stringify(treeResults), function (err) {
+    if (err) {
+        return console.error(err);
+    }
+    console.log("tree_list.min.json DONE");
 });
 
+console.log(flatResults);
+fs.writeFile("./flat_list.json", JSON.stringify(flatResults, null, 4), function (err) {
+    if (err) {
+        return console.error(err);
+    }
+    console.log("tree_list.json DONE");
+});
+fs.writeFile("./flat_list.min.json", JSON.stringify(flatResults), function (err) {
+    if (err) {
+        return console.error(err);
+    }
+    console.log("tree_list.min.json DONE");
+});

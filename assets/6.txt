@@ -40,7 +40,6 @@
 6031 - Variation des stocks de matières premières (et fournitures)
 6032 - Variation des stocks des autres approvisionnements
 6037 - Variation des stocks de marchandises
-61/62 - Autres charges externes
 61 - Services extérieurs
 611 - Sous-traitance générale
 612 - Redevances de crédit-bail

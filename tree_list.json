@@ -1,0 +1,3462 @@
+[
+    {
+        "class": 1,
+        "name": "Classe 1 : Comptes de capitaux",
+        "content": {
+            "10": {
+                "name": "Capital et réserves",
+                "content": {
+                    "101": {
+                        "name": "Capital",
+                        "content": {
+                            "1011": {
+                                "name": "Capital souscrit - non appelé"
+                            },
+                            "1012": {
+                                "name": "Capital souscrit - appelé, non versé"
+                            },
+                            "1013": {
+                                "name": "Capital souscrit - appelé, versé",
+                                "content": {
+                                    "10131": {
+                                        "name": "Capital non amorti"
+                                    },
+                                    "10132": {
+                                        "name": "Capital amorti"
+                                    }
+                                }
+                            },
+                            "1018": {
+                                "name": "Capital souscrit soumis à des réglementations particulières"
+                            }
+                        }
+                    },
+                    "102": {
+                        "name": "Fonds fiduciaires"
+                    },
+                    "104": {
+                        "name": "Primes liées au capital social",
+                        "content": {
+                            "1041": {
+                                "name": "Primes d'émission"
+                            },
+                            "1042": {
+                                "name": "Primes de fusion"
+                            },
+                            "1043": {
+                                "name": "Primes d'apport"
+                            },
+                            "1044": {
+                                "name": "Primes de conversion d'obligations en actions"
+                            },
+                            "1045": {
+                                "name": "Bons de souscription d'actions"
+                            }
+                        }
+                    },
+                    "105": {
+                        "name": "Ecarts de réévaluation",
+                        "content": {
+                            "1051": {
+                                "name": "Réserve spéciale de réévaluation"
+                            },
+                            "1052": {
+                                "name": "Ecart de réévaluation libre"
+                            },
+                            "1053": {
+                                "name": "Réserve de réévaluation"
+                            },
+                            "1055": {
+                                "name": "Ecarts de réévaluation (autres opérations légales)"
+                            },
+                            "1057": {
+                                "name": "Autres écarts de réévaluation en France"
+                            },
+                            "1058": {
+                                "name": "Autres écarts de réévaluation à l'Etranger"
+                            }
+                        }
+                    },
+                    "106": {
+                        "name": "Réserves",
+                        "content": {
+                            "1061": {
+                                "name": "Réserve légale",
+                                "content": {
+                                    "10611": {
+                                        "name": "Réserve légale proprement dite"
+                                    },
+                                    "10612": {
+                                        "name": "Plus-values nettes à long terme"
+                                    }
+                                }
+                            },
+                            "1062": {
+                                "name": "Réserves indisponibles"
+                            },
+                            "1063": {
+                                "name": "Réserves statutaires ou contractuelles"
+                            },
+                            "1064": {
+                                "name": "Réserves réglementées",
+                                "content": {
+                                    "10641": {
+                                        "name": "Plus-values nettes à long terme"
+                                    },
+                                    "10643": {
+                                        "name": "Réserves consécutives à l'octroi de subventions d'investissement"
+                                    },
+                                    "10648": {
+                                        "name": "Autres réserves réglementées"
+                                    }
+                                }
+                            },
+                            "1068": {
+                                "name": "Autres réserves",
+                                "content": {
+                                    "10681": {
+                                        "name": "Réserve de propre assureur"
+                                    },
+                                    "10688": {
+                                        "name": "Réserves diverses"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "107": {
+                        "name": "Ecart d'équivalence"
+                    },
+                    "108": {
+                        "name": "Compte de l'exploitant"
+                    },
+                    "109": {
+                        "name": "Actionnaires - Capital souscrit - non appelé"
+                    }
+                }
+            },
+            "11": {
+                "name": "Report à nouveau (solde créditeur ou débiteur)",
+                "content": {
+                    "110": {
+                        "name": "Report à nouveau (solde créditeur)"
+                    },
+                    "119": {
+                        "name": "Report à nouveau (solde débiteur)"
+                    }
+                }
+            },
+            "12": {
+                "name": "Résultat de l'exercice (bénéfice ou perte)",
+                "content": {
+                    "120": {
+                        "name": "Résultat de l'exercice (bénéfice)"
+                    },
+                    "129": {
+                        "name": "Résultat de l'exercice (perte)"
+                    }
+                }
+            },
+            "13": {
+                "name": "Subventions d'investissement",
+                "content": {
+                    "131": {
+                        "name": "Subventions d'équipement",
+                        "content": {
+                            "1311": {
+                                "name": "Etat"
+                            },
+                            "1312": {
+                                "name": "Régions"
+                            },
+                            "1313": {
+                                "name": "Départements"
+                            },
+                            "1314": {
+                                "name": "Communes"
+                            },
+                            "1315": {
+                                "name": "Collectivités publiques"
+                            },
+                            "1316": {
+                                "name": "Entreprises publiques"
+                            },
+                            "1317": {
+                                "name": "Entreprises et organismes privés"
+                            },
+                            "1318": {
+                                "name": "Autres"
+                            }
+                        }
+                    },
+                    "138": {
+                        "name": "Autres subventions d’investissement (même ventilation que celle du compte 131)"
+                    },
+                    "139": {
+                        "name": "Subventions d'investissement inscrites au compte de résultat",
+                        "content": {
+                            "1391": {
+                                "name": "Subventions d'équipement",
+                                "content": {
+                                    "13911": {
+                                        "name": "Etat"
+                                    },
+                                    "13912": {
+                                        "name": "Régions"
+                                    },
+                                    "13913": {
+                                        "name": "Départements"
+                                    },
+                                    "13914": {
+                                        "name": "Communes"
+                                    },
+                                    "13915": {
+                                        "name": "Collectivités publiques"
+                                    },
+                                    "13916": {
+                                        "name": "Entreprises publiques"
+                                    },
+                                    "13917": {
+                                        "name": "Entreprises et organismes privés"
+                                    },
+                                    "13918": {
+                                        "name": "Autres"
+                                    }
+                                }
+                            },
+                            "1398": {
+                                "name": "Autres subventions d’investissement (même ventilation que celle du compte 1391)"
+                            }
+                        }
+                    }
+                }
+            },
+            "14": {
+                "name": "Provisions réglementées",
+                "content": {
+                    "142": {
+                        "name": "Provisions réglementées relatives aux immobilisations",
+                        "content": {
+                            "1423": {
+                                "name": "Provisions pour reconstitution des gisements miniers et pétroliers"
+                            },
+                            "1424": {
+                                "name": "Provisions pour investissement (participation des salariés)"
+                            }
+                        }
+                    },
+                    "143": {
+                        "name": "Provisions réglementées relatives aux stocks",
+                        "content": {
+                            "1431": {
+                                "name": "Hausse des prix"
+                            },
+                            "1432": {
+                                "name": "Fluctuation des cours"
+                            }
+                        }
+                    },
+                    "144": {
+                        "name": "Provisions réglementées relatives aux autres éléments de l'actif"
+                    },
+                    "145": {
+                        "name": "Amortissements dérogatoires"
+                    },
+                    "146": {
+                        "name": "Provision spéciale de réévaluation"
+                    },
+                    "147": {
+                        "name": "Plus-values réinvesties"
+                    },
+                    "148": {
+                        "name": "Autres provisions réglementées"
+                    }
+                }
+            },
+            "15": {
+                "name": "Provisions",
+                "content": {
+                    "151": {
+                        "name": "Provisions pour risques",
+                        "content": {
+                            "1511": {
+                                "name": "Provisions pour litiges"
+                            },
+                            "1512": {
+                                "name": "Provisions pour garanties données aux clients"
+                            },
+                            "1513": {
+                                "name": "Provisions pour pertes sur marchés à terme"
+                            },
+                            "1514": {
+                                "name": "Provisions pour amendes et pénalités"
+                            },
+                            "1515": {
+                                "name": "Provisions pour pertes de change"
+                            },
+                            "1516": {
+                                "name": "Provisions pour pertes sur contrats"
+                            },
+                            "1518": {
+                                "name": "Autres provisions pour risques"
+                            }
+                        }
+                    },
+                    "153": {
+                        "name": "Provisions pour pensions et obligations similaires"
+                    },
+                    "154": {
+                        "name": "Provisions pour restructurations"
+                    },
+                    "155": {
+                        "name": "Provisions pour impôts"
+                    },
+                    "156": {
+                        "name": "Provisions pour renouvellement des immobilisations (entreprises concessionnaires)"
+                    },
+                    "157": {
+                        "name": "Provisions pour charges à répartir sur plusieurs exercices",
+                        "content": {
+                            "1572": {
+                                "name": "Provisions pour gros entretien ou grandes révisions"
+                            }
+                        }
+                    },
+                    "158": {
+                        "name": "Autres provisions pour charges",
+                        "content": {
+                            "1581": {
+                                "name": "Provisions pour remises en état"
+                            }
+                        }
+                    }
+                }
+            },
+            "16": {
+                "name": "Emprunts et dettes assimilées",
+                "content": {
+                    "161": {
+                        "name": "Emprunts obligataires convertibles"
+                    },
+                    "162": {
+                        "name": "Obligations représentatives de passifs nets remis en fiducie"
+                    },
+                    "163": {
+                        "name": "Autres emprunts obligataires"
+                    },
+                    "164": {
+                        "name": "Emprunts auprès des établissements de crédit"
+                    },
+                    "165": {
+                        "name": "Dépôts et cautionnements reçus",
+                        "content": {
+                            "1651": {
+                                "name": "Dépôts"
+                            },
+                            "1655": {
+                                "name": "Cautionnements"
+                            }
+                        }
+                    },
+                    "166": {
+                        "name": "Participation des salariés aux résultats",
+                        "content": {
+                            "1661": {
+                                "name": "Comptes bloqués"
+                            },
+                            "1662": {
+                                "name": "Fonds de participation"
+                            }
+                        }
+                    },
+                    "167": {
+                        "name": "Emprunts et dettes assortis de conditions particulières",
+                        "content": {
+                            "1671": {
+                                "name": "Emissions de titres participatifs"
+                            },
+                            "1674": {
+                                "name": "Avances conditionnées de l'Etat"
+                            },
+                            "1675": {
+                                "name": "Emprunts participatifs"
+                            }
+                        }
+                    },
+                    "168": {
+                        "name": "Autres emprunts et dettes assimilées",
+                        "content": {
+                            "1681": {
+                                "name": "Autres emprunts"
+                            },
+                            "1685": {
+                                "name": "Rentes viagères capitalisées"
+                            },
+                            "1687": {
+                                "name": "Autres dettes"
+                            },
+                            "1688": {
+                                "name": "Intérêts courus",
+                                "content": {
+                                    "16881": {
+                                        "name": "sur emprunts obligataires convertibles"
+                                    },
+                                    "16883": {
+                                        "name": "sur autres emprunts obligataires"
+                                    },
+                                    "16884": {
+                                        "name": "sur emprunts auprès des établissements de crédit"
+                                    },
+                                    "16885": {
+                                        "name": "sur dépôts et cautionnements reçus"
+                                    },
+                                    "16886": {
+                                        "name": "sur participation des salariés aux résultats"
+                                    },
+                                    "16887": {
+                                        "name": "sur emprunts et dettes assortis de conditions particulières"
+                                    },
+                                    "16888": {
+                                        "name": "sur autres emprunts et dettes assimilées"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "169": {
+                        "name": "Primes de remboursement des obligations"
+                    }
+                }
+            },
+            "17": {
+                "name": "Dettes rattachées à des participations",
+                "content": {
+                    "171": {
+                        "name": "Dettes rattachées à des participations (groupe)"
+                    },
+                    "174": {
+                        "name": "Dettes rattachées à des participations (hors groupe)"
+                    },
+                    "178": {
+                        "name": "Dettes rattachées à des sociétés en participation",
+                        "content": {
+                            "1781": {
+                                "name": "Principal"
+                            },
+                            "1788": {
+                                "name": "Intérêts courus"
+                            }
+                        }
+                    }
+                }
+            },
+            "18": {
+                "name": "Comptes de liaison des établissements et sociétés en participation",
+                "content": {
+                    "181": {
+                        "name": "Comptes de liaison des établissements"
+                    },
+                    "186": {
+                        "name": "Biens et prestations de services échangés entre établissements (charges)"
+                    },
+                    "187": {
+                        "name": "Biens et prestations de services échangés entre établissements (produits)"
+                    },
+                    "188": {
+                        "name": "Comptes de liaison des sociétés en participation"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 2,
+        "name": "Classe 2 : Comptes d’immobilisations",
+        "content": {
+            "20": {
+                "name": "Immobilisations incorporelles",
+                "content": {
+                    "201": {
+                        "name": "Frais d'établissement",
+                        "content": {
+                            "2011": {
+                                "name": "Frais de constitution"
+                            },
+                            "2012": {
+                                "name": "Frais de premier établissement",
+                                "content": {
+                                    "20121": {
+                                        "name": "Frais de prospection"
+                                    },
+                                    "20122": {
+                                        "name": "Frais de publicité"
+                                    }
+                                }
+                            },
+                            "2013": {
+                                "name": "Frais d'augmentation de capital et d'opérations diverses (fusions, scissions, transformations)"
+                            }
+                        }
+                    },
+                    "203": {
+                        "name": "Frais de recherche et de développement"
+                    },
+                    "205": {
+                        "name": "Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires"
+                    },
+                    "206": {
+                        "name": "Droit au bail"
+                    },
+                    "207": {
+                        "name": "Fonds commercial"
+                    },
+                    "208": {
+                        "name": "Autres immobilisations incorporelles",
+                        "content": {
+                            "2081": {
+                                "name": "Mali de fusion sur actifs incorporels"
+                            }
+                        }
+                    }
+                }
+            },
+            "21": {
+                "name": "Immobilisations corporelles",
+                "content": {
+                    "211": {
+                        "name": "Terrains",
+                        "content": {
+                            "2111": {
+                                "name": "Terrains nus"
+                            },
+                            "2112": {
+                                "name": "Terrains aménagés"
+                            },
+                            "2113": {
+                                "name": "Sous - sols et sursols"
+                            },
+                            "2114": {
+                                "name": "Terrains de carrières (Tréfonds)"
+                            },
+                            "2115": {
+                                "name": "Terrains bâtis",
+                                "content": {
+                                    "21151": {
+                                        "name": "Ensembles immobiliers industriels (A, B)"
+                                    },
+                                    "21155": {
+                                        "name": "Ensembles immobiliers administratifs et commerciaux (A, B)"
+                                    },
+                                    "21158": {
+                                        "name": "Autres ensembles immobiliers",
+                                        "content": {
+                                            "211581": {
+                                                "name": "affectés aux opérations professionnelles (A, B)"
+                                            },
+                                            "211588": {
+                                                "name": "affectés aux opérations non professionnelles (A, B)"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "2116": {
+                                "name": "Compte d'ordre sur immobilisations"
+                            }
+                        }
+                    },
+                    "212": {
+                        "name": "Agencements et aménagements de terrains (même ventilation que celle du compte 211)"
+                    },
+                    "213": {
+                        "name": "Constructions",
+                        "content": {
+                            "2131": {
+                                "name": "Bâtiments",
+                                "content": {
+                                    "21311": {
+                                        "name": "Ensembles immobiliers industriels (A, B)"
+                                    },
+                                    "21315": {
+                                        "name": "Ensembles immobiliers administratifs et commerciaux (A, B)"
+                                    },
+                                    "21318": {
+                                        "name": "Autres ensembles immobiliers",
+                                        "content": {
+                                            "213181": {
+                                                "name": "affectés aux opérations professionnelles (A, B)"
+                                            },
+                                            "213188": {
+                                                "name": "affectés aux opérations non professionnelles (A, B)"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "2135": {
+                                "name": "Installations générales - agencements – aménagements des constructions",
+                                "content": {
+                                    "21351": {
+                                        "name": "Ensembles immobiliers industriels (A, B)"
+                                    },
+                                    "21355": {
+                                        "name": "Ensembles immobiliers administratifs et commerciaux (A, B)"
+                                    },
+                                    "21358": {
+                                        "name": "Autres ensembles immobiliers",
+                                        "content": {
+                                            "213581": {
+                                                "name": "affectés aux opérations professionnelles (A, B)"
+                                            },
+                                            "213588": {
+                                                "name": "affectés aux opérations non professionnelles (A, B)"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "2138": {
+                                "name": "Ouvrages d'infrastructure",
+                                "content": {
+                                    "21381": {
+                                        "name": "Voies de terre"
+                                    },
+                                    "21382": {
+                                        "name": "Voies de fer"
+                                    },
+                                    "21383": {
+                                        "name": "Voies d'eau"
+                                    },
+                                    "21384": {
+                                        "name": "Barrages"
+                                    },
+                                    "21385": {
+                                        "name": "Pistes d'aérodromes"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "214": {
+                        "name": "Constructions sur sol d'autrui (même ventilation que celle du compte 213)"
+                    },
+                    "215": {
+                        "name": "Installations techniques, matériels et outillage industriels",
+                        "content": {
+                            "2151": {
+                                "name": "Installations complexes spécialisées",
+                                "content": {
+                                    "21511": {
+                                        "name": "sur sol propre"
+                                    },
+                                    "21514": {
+                                        "name": "sur sol d'autrui"
+                                    }
+                                }
+                            },
+                            "2153": {
+                                "name": "Installations à caractère spécifique",
+                                "content": {
+                                    "21531": {
+                                        "name": "sur sol propre"
+                                    },
+                                    "21534": {
+                                        "name": "sur sol d'autrui"
+                                    }
+                                }
+                            },
+                            "2154": {
+                                "name": "Matériel industriel"
+                            },
+                            "2155": {
+                                "name": "Outillage industriel"
+                            },
+                            "2157": {
+                                "name": "Agencements et aménagements du matériel et outillage industriels"
+                            }
+                        }
+                    },
+                    "218": {
+                        "name": "Autres immobilisations corporelles",
+                        "content": {
+                            "2181": {
+                                "name": "Installations générales, agencements, aménagements divers"
+                            },
+                            "2182": {
+                                "name": "Matériel de transport"
+                            },
+                            "2183": {
+                                "name": "Matériel de bureau et matériel informatique"
+                            },
+                            "2184": {
+                                "name": "Mobilier"
+                            },
+                            "2185": {
+                                "name": "Cheptel"
+                            },
+                            "2186": {
+                                "name": "Emballages récupérables"
+                            },
+                            "2187": {
+                                "name": "Mali de fusions sur actifs corporels"
+                            }
+                        }
+                    }
+                }
+            },
+            "22": {
+                "name": "Immobilisations mises en concession"
+            },
+            "23": {
+                "name": "Immobilisations en cours",
+                "content": {
+                    "231": {
+                        "name": "Immobilisations corporelles en cours",
+                        "content": {
+                            "2312": {
+                                "name": "Terrains"
+                            },
+                            "2313": {
+                                "name": "Constructions"
+                            },
+                            "2315": {
+                                "name": "Installations techniques, matériel et outillage industriels"
+                            },
+                            "2318": {
+                                "name": "Autres immobilisations corporelles"
+                            }
+                        }
+                    },
+                    "232": {
+                        "name": "Immobilisations incorporelles en cours"
+                    },
+                    "237": {
+                        "name": "Avances et acomptes versés sur immobilisations incorporelles"
+                    },
+                    "238": {
+                        "name": "Avances et acomptes versés sur commandes d'immobilisations corporelles",
+                        "content": {
+                            "2382": {
+                                "name": "Terrains"
+                            },
+                            "2383": {
+                                "name": "Constructions"
+                            },
+                            "2385": {
+                                "name": "Installations techniques, matériel et outillage industriels"
+                            },
+                            "2388": {
+                                "name": "Autres immobilisations corporelles"
+                            }
+                        }
+                    }
+                }
+            },
+            "25": {
+                "name": "Parts dans des entreprises liées et créances sur des entreprises liées"
+            },
+            "26": {
+                "name": "Participations et créances rattachées à des participations",
+                "content": {
+                    "261": {
+                        "name": "Titres de participation",
+                        "content": {
+                            "2611": {
+                                "name": "Actions"
+                            },
+                            "2618": {
+                                "name": "Autres titres"
+                            }
+                        }
+                    },
+                    "266": {
+                        "name": "Autres formes de participation",
+                        "content": {
+                            "2661": {
+                                "name": "Droits représentatifs d’actifs nets remis en fiducie"
+                            }
+                        }
+                    },
+                    "267": {
+                        "name": "Créances rattachées à des participations",
+                        "content": {
+                            "2671": {
+                                "name": "Créances rattachées à des participations (groupe)"
+                            },
+                            "2674": {
+                                "name": "Créances rattachées à des participations (hors groupe)"
+                            },
+                            "2675": {
+                                "name": "Versements représentatifs d'apports non capitalisés (appel de fonds)"
+                            },
+                            "2676": {
+                                "name": "Avances consolidables"
+                            },
+                            "2677": {
+                                "name": "Autres créances rattachées à des participations"
+                            },
+                            "2678": {
+                                "name": "Intérêts courus"
+                            }
+                        }
+                    },
+                    "268": {
+                        "name": "Créances rattachées à des sociétés en participation",
+                        "content": {
+                            "2681": {
+                                "name": "Principal"
+                            },
+                            "2688": {
+                                "name": "Intérêts courus"
+                            }
+                        }
+                    },
+                    "269": {
+                        "name": "Versements restant à effectuer sur titres de participation non libérés"
+                    }
+                }
+            },
+            "27": {
+                "name": "Autres immobilisations financières",
+                "content": {
+                    "271": {
+                        "name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille (droit de propriété)",
+                        "content": {
+                            "2711": {
+                                "name": "Actions"
+                            },
+                            "2718": {
+                                "name": "Autres titres"
+                            }
+                        }
+                    },
+                    "272": {
+                        "name": "Titres immobilisés (droit de créance)",
+                        "content": {
+                            "2721": {
+                                "name": "Obligations"
+                            },
+                            "2722": {
+                                "name": "Bons"
+                            }
+                        }
+                    },
+                    "273": {
+                        "name": "Titres immobilisés de l'activité de portefeuille"
+                    },
+                    "274": {
+                        "name": "Prêts",
+                        "content": {
+                            "2741": {
+                                "name": "Prêts participatifs"
+                            },
+                            "2742": {
+                                "name": "Prêts aux associés"
+                            },
+                            "2743": {
+                                "name": "Prêts au personnel"
+                            },
+                            "2748": {
+                                "name": "Autres prêts"
+                            }
+                        }
+                    },
+                    "275": {
+                        "name": "Dépôts et cautionnements versés",
+                        "content": {
+                            "2751": {
+                                "name": "Dépôts"
+                            },
+                            "2755": {
+                                "name": "Cautionnements"
+                            }
+                        }
+                    },
+                    "276": {
+                        "name": "Autres créances immobilisées",
+                        "content": {
+                            "2761": {
+                                "name": "Créances diverses"
+                            },
+                            "2768": {
+                                "name": "Intérêts courus",
+                                "content": {
+                                    "27682": {
+                                        "name": "sur titres immobilisés (droit de créance)"
+                                    },
+                                    "27684": {
+                                        "name": "sur prêts"
+                                    },
+                                    "27685": {
+                                        "name": "sur dépôts et cautionnements"
+                                    },
+                                    "27688": {
+                                        "name": "sur créances diverses"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "277": {
+                        "name": "(Actions propres ou parts propres)",
+                        "content": {
+                            "2771": {
+                                "name": "Actions propres ou parts propres"
+                            },
+                            "2772": {
+                                "name": "Actions propres ou parts propres en voie d’annulation"
+                            }
+                        }
+                    },
+                    "278": {
+                        "name": "Mali de fusion sur actifs financiers"
+                    },
+                    "279": {
+                        "name": "Versements restant à effectuer sur titres immobilisés non libérés"
+                    }
+                }
+            },
+            "28": {
+                "name": "Amortissements des immobilisations",
+                "content": {
+                    "280": {
+                        "name": "Amortissements des immobilisations incorporelles",
+                        "content": {
+                            "2801": {
+                                "name": "Frais d'établissement (même ventilation que celle du compte 201)"
+                            },
+                            "2803": {
+                                "name": "Frais de recherche et de développement"
+                            },
+                            "2805": {
+                                "name": "Concessions et droits similaires, brevets, licences, logiciels, droits et valeurs similaires"
+                            },
+                            "2807": {
+                                "name": "Fonds commercial"
+                            },
+                            "2808": {
+                                "name": "Autres immobilisations incorporelles",
+                                "content": {
+                                    "28081": {
+                                        "name": "Amortissements du mali de fusion sur actifs incorporels"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "281": {
+                        "name": "Amortissements des immobilisations corporelles",
+                        "content": {
+                            "2812": {
+                                "name": "Agencements, aménagements de terrains (même ventilation que celle du compte 212)"
+                            },
+                            "2813": {
+                                "name": "Constructions (même ventilation que celle du compte 213)"
+                            },
+                            "2814": {
+                                "name": "Constructions sur sol d'autrui (même ventilation que celle du compte 214)"
+                            },
+                            "2815": {
+                                "name": "Installations, matériel et outillage industriels (même ventilation que celle du compte 215)"
+                            },
+                            "2818": {
+                                "name": "Autres immobilisations corporelles (même ventilation que celle du compte 218)",
+                                "content": {
+                                    "28187": {
+                                        "name": "Amortissement du mali de fusion sur actifs corporels"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "282": {
+                        "name": "Amortissements des immobilisations mises en concession"
+                    }
+                }
+            },
+            "29": {
+                "name": "Dépréciations des immobilisations",
+                "content": {
+                    "290": {
+                        "name": "Dépréciations des immobilisations incorporelles",
+                        "content": {
+                            "2905": {
+                                "name": "Marques, procédés, droits et valeurs similaires"
+                            },
+                            "2906": {
+                                "name": "Droit au bail"
+                            },
+                            "2907": {
+                                "name": "Fonds commercial"
+                            },
+                            "2908": {
+                                "name": "Autres immobilisations incorporelles",
+                                "content": {
+                                    "29081": {
+                                        "name": "Dépréciation du mali de fusion sur actifs incorporels"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "291": {
+                        "name": "Dépréciations des immobilisations corporelles (même ventilation que celle du compte 21)",
+                        "content": {
+                            "29187": {
+                                "name": "Dépréciation du mali de fusion sur actifs corporels"
+                            }
+                        }
+                    },
+                    "292": {
+                        "name": "Dépréciations des immobilisations mises en concession"
+                    },
+                    "293": {
+                        "name": "Dépréciations des immobilisations en cours",
+                        "content": {
+                            "2931": {
+                                "name": "Immobilisations corporelles en cours"
+                            },
+                            "2932": {
+                                "name": "Immobilisations incorporelles en cours"
+                            }
+                        }
+                    },
+                    "296": {
+                        "name": "Dépréciations des participations et créances rattachées à des participations",
+                        "content": {
+                            "2961": {
+                                "name": "Titres de participation"
+                            },
+                            "2966": {
+                                "name": "Autres formes de participation"
+                            },
+                            "2967": {
+                                "name": "Créances rattachées à des participations (même ventilation que celle du compte 267)"
+                            },
+                            "2968": {
+                                "name": "Créances rattachées à des sociétés en participation (même ventilation que celle du compte 268)"
+                            }
+                        }
+                    },
+                    "297": {
+                        "name": "Dépréciations des autres immobilisations financières",
+                        "content": {
+                            "2971": {
+                                "name": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille – droit de propriété (même ventilation que celle du compte 271)"
+                            },
+                            "2972": {
+                                "name": "Droit de créance (même ventilation que celle du compte 272)"
+                            },
+                            "2973": {
+                                "name": "Titres immobilisés de l'activité de portefeuille"
+                            },
+                            "2974": {
+                                "name": "Prêts (même ventilation que celle du compte 274)"
+                            },
+                            "2975": {
+                                "name": "Dépôts et cautionnements versés (même ventilation que celle du compte 275)"
+                            },
+                            "2976": {
+                                "name": "Autres créances immobilisées (même ventilation que celle du compte 276)"
+                            },
+                            "29787": {
+                                "name": "Dépréciation du mali de fusion sur actifs financiers"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 3,
+        "name": "Classe 3 : Comptes de stocks et en-cours",
+        "content": {
+            "31": {
+                "name": "Matières premières (et fournitures)",
+                "content": {
+                    "311": {
+                        "name": "Matières (ou groupe) A"
+                    },
+                    "312": {
+                        "name": "Matières (ou groupe) B"
+                    },
+                    "317": {
+                        "name": "Fournitures A, B, C,"
+                    }
+                }
+            },
+            "32": {
+                "name": "Autres approvisionnements",
+                "content": {
+                    "321": {
+                        "name": "Matières consommables",
+                        "content": {
+                            "3211": {
+                                "name": "Matières (ou groupe) C"
+                            },
+                            "3212": {
+                                "name": "Matières (ou groupe) D"
+                            }
+                        }
+                    },
+                    "322": {
+                        "name": "Fournitures consommables",
+                        "content": {
+                            "3221": {
+                                "name": "Combustibles"
+                            },
+                            "3222": {
+                                "name": "Produits d'entretien"
+                            },
+                            "3223": {
+                                "name": "Fournitures d'atelier et d'usine"
+                            },
+                            "3224": {
+                                "name": "Fournitures de magasin"
+                            },
+                            "3225": {
+                                "name": "Fournitures de bureau"
+                            }
+                        }
+                    },
+                    "326": {
+                        "name": "Emballages",
+                        "content": {
+                            "3261": {
+                                "name": "Emballages perdus"
+                            },
+                            "3265": {
+                                "name": "Emballages récupérables non identifiables"
+                            },
+                            "3267": {
+                                "name": "Emballages à usage mixte"
+                            }
+                        }
+                    }
+                }
+            },
+            "33": {
+                "name": "En-cours de production de biens",
+                "content": {
+                    "331": {
+                        "name": "Produits en cours",
+                        "content": {
+                            "3311": {
+                                "name": "Produits en cours P 1"
+                            },
+                            "3312": {
+                                "name": "Produits en cours P 2"
+                            }
+                        }
+                    },
+                    "335": {
+                        "name": "Travaux en cours",
+                        "content": {
+                            "3351": {
+                                "name": "Travaux en cours T 1"
+                            },
+                            "3352": {
+                                "name": "Travaux en cours T 2"
+                            }
+                        }
+                    }
+                }
+            },
+            "34": {
+                "name": "En-cours de production de services",
+                "content": {
+                    "341": {
+                        "name": "Etudes en cours",
+                        "content": {
+                            "3411": {
+                                "name": "Etudes en cours E 1"
+                            },
+                            "3412": {
+                                "name": "Etudes en cours E 2"
+                            }
+                        }
+                    },
+                    "345": {
+                        "name": "Prestations de services en cours",
+                        "content": {
+                            "3451": {
+                                "name": "Prestations de services S 1"
+                            },
+                            "3452": {
+                                "name": "Prestations de services S 2"
+                            }
+                        }
+                    }
+                }
+            },
+            "35": {
+                "name": "Stocks de produits",
+                "content": {
+                    "351": {
+                        "name": "Produits intermédiaires",
+                        "content": {
+                            "3511": {
+                                "name": "Produits intermédiaires (ou groupe) A"
+                            },
+                            "3512": {
+                                "name": "Produits intermédiaires (ou groupe) B"
+                            }
+                        }
+                    },
+                    "355": {
+                        "name": "Produits finis",
+                        "content": {
+                            "3551": {
+                                "name": "Produits finis (ou groupe) A"
+                            },
+                            "3552": {
+                                "name": "Produits finis (ou groupe) B"
+                            }
+                        }
+                    },
+                    "358": {
+                        "name": "Produits résiduels (ou matières de récupération)",
+                        "content": {
+                            "3581": {
+                                "name": "Déchets"
+                            },
+                            "3585": {
+                                "name": "Rebuts"
+                            },
+                            "3586": {
+                                "name": "Matières de récupération"
+                            }
+                        }
+                    }
+                }
+            },
+            "36": {
+                "name": "(compte à ouvrir, le cas échéant, sous l'intitulé \"Stocks provenant d'immobilisations\")"
+            },
+            "37": {
+                "name": "Stocks de marchandises",
+                "content": {
+                    "371": {
+                        "name": "Marchandises (ou groupe) A"
+                    },
+                    "372": {
+                        "name": "Marchandises (ou groupe) B"
+                    }
+                }
+            },
+            "38": {
+                "name": "(lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation)"
+            },
+            "39": {
+                "name": "Dépréciations des stocks et en-cours",
+                "content": {
+                    "391": {
+                        "name": "Dépréciations des matières premières (et fournitures)",
+                        "content": {
+                            "3911": {
+                                "name": "Matières (ou groupe) A"
+                            },
+                            "3912": {
+                                "name": "Matières (ou groupe) B"
+                            },
+                            "3917": {
+                                "name": "Fournitures A, B, C,"
+                            }
+                        }
+                    },
+                    "392": {
+                        "name": "Dépréciations des autres approvisionnements",
+                        "content": {
+                            "3921": {
+                                "name": "Matières consommables (même ventilation que celle du compte 321)"
+                            },
+                            "3922": {
+                                "name": "Fournitures consommables (même ventilation que celle du compte 322)"
+                            },
+                            "3926": {
+                                "name": "Emballages (même ventilation que celle du compte 326)"
+                            }
+                        }
+                    },
+                    "393": {
+                        "name": "Dépréciations des en-cours de production de biens",
+                        "content": {
+                            "3931": {
+                                "name": "Produits en cours (même ventilation que celle du compte 331)"
+                            },
+                            "3935": {
+                                "name": "Travaux en cours (même ventilation que celle du compte 335)"
+                            }
+                        }
+                    },
+                    "394": {
+                        "name": "Dépréciations des en-cours de production de services",
+                        "content": {
+                            "3941": {
+                                "name": "Etudes en cours (même ventilation que celle du compte 341)"
+                            },
+                            "3945": {
+                                "name": "Prestations de services en cours (même ventilation que celle du compte 345)"
+                            }
+                        }
+                    },
+                    "395": {
+                        "name": "Dépréciations des stocks de produits",
+                        "content": {
+                            "3951": {
+                                "name": "Produits intermédiaires (même ventilation que celle du compte 351)"
+                            },
+                            "3955": {
+                                "name": "Produits finis (même ventilation que celle du compte 355)"
+                            }
+                        }
+                    },
+                    "397": {
+                        "name": "Dépréciations des stocks de marchandises",
+                        "content": {
+                            "3971": {
+                                "name": "Marchandise (ou groupe) A"
+                            },
+                            "3972": {
+                                "name": "Marchandise (ou groupe) B"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 4,
+        "name": "Classe 4 : Comptes de tiers",
+        "content": {
+            "40": {
+                "name": "Fournisseurs et comptes rattachés",
+                "content": {
+                    "400": {
+                        "name": "Fournisseurs et comptes rattachés"
+                    },
+                    "401": {
+                        "name": "Fournisseurs",
+                        "content": {
+                            "4011": {
+                                "name": "Fournisseurs - Achats de biens et prestations de services"
+                            },
+                            "4017": {
+                                "name": "Fournisseurs - Retenues de garantie"
+                            }
+                        }
+                    },
+                    "403": {
+                        "name": "Fournisseurs - Effets à payer"
+                    },
+                    "404": {
+                        "name": "Fournisseurs d'immobilisations",
+                        "content": {
+                            "4041": {
+                                "name": "Fournisseurs - Achats d'immobilisations"
+                            },
+                            "4047": {
+                                "name": "Fournisseurs d'immobilisations – Retenues de garantie"
+                            }
+                        }
+                    },
+                    "405": {
+                        "name": "Fournisseurs d'immobilisations - Effets à payer"
+                    },
+                    "408": {
+                        "name": "Fournisseurs - Factures non parvenues",
+                        "content": {
+                            "4081": {
+                                "name": "Fournisseurs"
+                            },
+                            "4084": {
+                                "name": "Fournisseurs d'immobilisations"
+                            },
+                            "4088": {
+                                "name": "Fournisseurs – Intérêts courus"
+                            }
+                        }
+                    },
+                    "409": {
+                        "name": "Fournisseurs débiteurs",
+                        "content": {
+                            "4091": {
+                                "name": "Fournisseurs - Avances et acomptes versés sur commandes"
+                            },
+                            "4096": {
+                                "name": "Fournisseurs - Créances pour emballages et matériel à rendre"
+                            },
+                            "4097": {
+                                "name": "Fournisseurs - Autres avoirs",
+                                "content": {
+                                    "40971": {
+                                        "name": "Fournisseurs d'exploitation"
+                                    },
+                                    "40974": {
+                                        "name": "Fournisseurs d'immobilisations"
+                                    }
+                                }
+                            },
+                            "4098": {
+                                "name": "Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus"
+                            }
+                        }
+                    }
+                }
+            },
+            "41": {
+                "name": "Clients et comptes rattachés",
+                "content": {
+                    "410": {
+                        "name": "Clients et comptes rattachés"
+                    },
+                    "411": {
+                        "name": "Clients",
+                        "content": {
+                            "4111": {
+                                "name": "Clients - Ventes de biens ou de prestations de services"
+                            },
+                            "4117": {
+                                "name": "Clients - Retenues de garantie"
+                            }
+                        }
+                    },
+                    "413": {
+                        "name": "Clients - Effets à recevoir"
+                    },
+                    "416": {
+                        "name": "Clients douteux ou litigieux"
+                    },
+                    "418": {
+                        "name": "Clients - Produits non encore facturés",
+                        "content": {
+                            "4181": {
+                                "name": "Clients - Factures à établir"
+                            },
+                            "4188": {
+                                "name": "Clients - Intérêts courus"
+                            }
+                        }
+                    },
+                    "419": {
+                        "name": "Clients créditeurs",
+                        "content": {
+                            "4191": {
+                                "name": "Clients - Avances et acomptes reçus sur commandes"
+                            },
+                            "4196": {
+                                "name": "Clients - Dettes sur emballages et matériels consignés"
+                            },
+                            "4197": {
+                                "name": "Clients - Autres avoirs"
+                            },
+                            "4198": {
+                                "name": "Rabais, remises, ristournes à accorder et autres avoirs à établir"
+                            }
+                        }
+                    }
+                }
+            },
+            "42": {
+                "name": "Personnel et comptes rattachés",
+                "content": {
+                    "421": {
+                        "name": "Personnel - Rémunérations dues"
+                    },
+                    "422": {
+                        "name": "Comités d'entreprises, d'établissement, …"
+                    },
+                    "424": {
+                        "name": "Participation des salariés aux résultats",
+                        "content": {
+                            "4246": {
+                                "name": "Réserve spéciale"
+                            },
+                            "4248": {
+                                "name": "Comptes courants"
+                            }
+                        }
+                    },
+                    "425": {
+                        "name": "Personnel - Avances et acomptes"
+                    },
+                    "426": {
+                        "name": "Personnel - Dépôts"
+                    },
+                    "427": {
+                        "name": "Personnel - Oppositions"
+                    },
+                    "428": {
+                        "name": "Personnel - Charges à payer et produits à recevoir",
+                        "content": {
+                            "4282": {
+                                "name": "Dettes provisionnées pour congés à payer"
+                            },
+                            "4284": {
+                                "name": "Dettes provisionnées pour participation des salariés aux résultats"
+                            },
+                            "4286": {
+                                "name": "Autres charges à payer"
+                            },
+                            "4287": {
+                                "name": "Produits à recevoir"
+                            }
+                        }
+                    }
+                }
+            },
+            "43": {
+                "name": "Sécurité sociale et autres organismes sociaux",
+                "content": {
+                    "431": {
+                        "name": "Sécurité sociale"
+                    },
+                    "437": {
+                        "name": "Autres organismes sociaux"
+                    },
+                    "438": {
+                        "name": "Organismes sociaux - Charges à payer et produits à recevoir",
+                        "content": {
+                            "4382": {
+                                "name": "Charges sociales sur congés à payer"
+                            },
+                            "4386": {
+                                "name": "Autres charges à payer"
+                            },
+                            "4387": {
+                                "name": "Produits à recevoir"
+                            }
+                        }
+                    }
+                }
+            },
+            "44": {
+                "name": "État et autres collectivités publiques",
+                "content": {
+                    "441": {
+                        "name": "État - Subventions à recevoir",
+                        "content": {
+                            "4411": {
+                                "name": "Subventions d'investissement"
+                            },
+                            "4417": {
+                                "name": "Subventions d'exploitation"
+                            },
+                            "4418": {
+                                "name": "Subventions d'équilibre"
+                            },
+                            "4419": {
+                                "name": "Avances sur subventions"
+                            }
+                        }
+                    },
+                    "442": {
+                        "name": "Etat - Impôts et taxes recouvrables sur des tiers",
+                        "content": {
+                            "4424": {
+                                "name": "Obligataires"
+                            },
+                            "4425": {
+                                "name": "Associés"
+                            }
+                        }
+                    },
+                    "443": {
+                        "name": "Opérations particulières avec l'Etat les collectivités publiques, les organismes internationaux",
+                        "content": {
+                            "4431": {
+                                "name": "Créances sur l'Etat résultant de la suppression de la règle du décalage d'un mois en matière de TVA"
+                            },
+                            "4438": {
+                                "name": "Intérêts courus sur créances figurant au 4431"
+                            }
+                        }
+                    },
+                    "444": {
+                        "name": "Etat - Impôts sur les bénéfices"
+                    },
+                    "445": {
+                        "name": "Etat - Taxes sur le chiffre d'affaires",
+                        "content": {
+                            "4452": {
+                                "name": "TVA due intracommunautaire"
+                            },
+                            "4455": {
+                                "name": "Taxes sur le chiffre d'affaires à décaisser",
+                                "content": {
+                                    "44551": {
+                                        "name": "TVA à décaisser"
+                                    },
+                                    "44558": {
+                                        "name": "Taxes assimilées à la TVA"
+                                    }
+                                }
+                            },
+                            "4456": {
+                                "name": "Taxes sur le chiffre d'affaires déductibles",
+                                "content": {
+                                    "44562": {
+                                        "name": "TVA sur immobilisations"
+                                    },
+                                    "44563": {
+                                        "name": "TVA transférée par d'autres entreprises"
+                                    },
+                                    "44566": {
+                                        "name": "TVA sur autres biens et services"
+                                    },
+                                    "44567": {
+                                        "name": "Crédit de TVA à reporter"
+                                    },
+                                    "44568": {
+                                        "name": "Taxes assimilées à la TVA"
+                                    }
+                                }
+                            },
+                            "4457": {
+                                "name": "Taxes sur le chiffre d'affaires collectées par l'entreprise",
+                                "content": {
+                                    "44571": {
+                                        "name": "TVA collectée"
+                                    },
+                                    "44578": {
+                                        "name": "Taxes assimilées à la TVA"
+                                    }
+                                }
+                            },
+                            "4458": {
+                                "name": "Taxes sur le chiffre d'affaires à régulariser ou en attente",
+                                "content": {
+                                    "44581": {
+                                        "name": "Acomptes - Régime simplifié d'imposition"
+                                    },
+                                    "44582": {
+                                        "name": "Acomptes - Régime de forfait"
+                                    },
+                                    "44583": {
+                                        "name": "Remboursement de taxes sur le chiffre d'affaires demandé"
+                                    },
+                                    "44584": {
+                                        "name": "TVA récupérée d'avance"
+                                    },
+                                    "44586": {
+                                        "name": "Taxes sur le chiffre d'affaires sur factures non parvenues"
+                                    },
+                                    "44587": {
+                                        "name": "Taxes sur le chiffre d'affaires sur factures à établir"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "446": {
+                        "name": "Obligations cautionnées"
+                    },
+                    "447": {
+                        "name": "Autres impôts, taxes et versements assimilés"
+                    },
+                    "448": {
+                        "name": "Etat - Charges à payer et produits à recevoir",
+                        "content": {
+                            "4482": {
+                                "name": "Charges fiscales sur congés à payer"
+                            },
+                            "4486": {
+                                "name": "Charges à payer"
+                            },
+                            "4487": {
+                                "name": "Produits à recevoir"
+                            }
+                        }
+                    },
+                    "449": {
+                        "name": "Quotas d’émission à acquérir"
+                    }
+                }
+            },
+            "45": {
+                "name": "Groupe et associés",
+                "content": {
+                    "451": {
+                        "name": "Groupe"
+                    },
+                    "455": {
+                        "name": "Associés - Comptes courants",
+                        "content": {
+                            "4551": {
+                                "name": "Principal"
+                            },
+                            "4558": {
+                                "name": "Intérêts courus"
+                            }
+                        }
+                    },
+                    "456": {
+                        "name": "Associés - Opérations sur le capital",
+                        "content": {
+                            "4561": {
+                                "name": "Associés - Comptes d'apport en société",
+                                "content": {
+                                    "45611": {
+                                        "name": "Apports en nature"
+                                    },
+                                    "45615": {
+                                        "name": "Apports en numéraire"
+                                    }
+                                }
+                            },
+                            "4562": {
+                                "name": "Apporteurs - Capital appelé, non versé",
+                                "content": {
+                                    "45621": {
+                                        "name": "Actionnaires - Capital souscrit et appelé, non versé"
+                                    },
+                                    "45625": {
+                                        "name": "Associés - Capital appelé, non versé"
+                                    }
+                                }
+                            },
+                            "4563": {
+                                "name": "Associés - Versements reçus sur augmentation de capital"
+                            },
+                            "4564": {
+                                "name": "Associés - Versements anticipés"
+                            },
+                            "4566": {
+                                "name": "Actionnaires défaillants"
+                            },
+                            "4567": {
+                                "name": "Associés - Capital à rembourser"
+                            }
+                        }
+                    },
+                    "457": {
+                        "name": "Associés - Dividendes à payer"
+                    },
+                    "458": {
+                        "name": "Associés - Opérations faites en commun et en GIE",
+                        "content": {
+                            "4581": {
+                                "name": "Opérations courantes"
+                            },
+                            "4588": {
+                                "name": "Intérêts courus"
+                            }
+                        }
+                    }
+                }
+            },
+            "46": {
+                "name": "Débiteurs divers et créditeurs divers",
+                "content": {
+                    "462": {
+                        "name": "Créances sur cessions d'immobilisations"
+                    },
+                    "464": {
+                        "name": "Dettes sur acquisitions de valeurs mobilières de placement"
+                    },
+                    "465": {
+                        "name": "Créances sur cessions de valeurs mobilières de placement"
+                    },
+                    "467": {
+                        "name": "Autres comptes débiteurs ou créditeurs"
+                    },
+                    "468": {
+                        "name": "Divers - Charges à payer et produits à recevoir",
+                        "content": {
+                            "4686": {
+                                "name": "Charges à payer"
+                            },
+                            "4687": {
+                                "name": "Produits à recevoir"
+                            }
+                        }
+                    }
+                }
+            },
+            "47": {
+                "name": "Comptes transitoires ou d'attente",
+                "content": {
+                    "471": {
+                        "name": "Comptes d'attente"
+                    },
+                    "472": {
+                        "name": "Comptes d'attente"
+                    },
+                    "473": {
+                        "name": "Comptes d'attente"
+                    },
+                    "474": {
+                        "name": "Comptes d'attente"
+                    },
+                    "475": {
+                        "name": "Comptes d'attente"
+                    },
+                    "476": {
+                        "name": "Différence de conversion - Actif",
+                        "content": {
+                            "4761": {
+                                "name": "Diminution des créances"
+                            },
+                            "4762": {
+                                "name": "Augmentation des dettes"
+                            },
+                            "4768": {
+                                "name": "Différences compensées par couverture de change"
+                            }
+                        }
+                    },
+                    "477": {
+                        "name": "Différences de conversion - Passif",
+                        "content": {
+                            "4771": {
+                                "name": "Augmentation des créances"
+                            },
+                            "4772": {
+                                "name": "Diminution des dettes"
+                            },
+                            "4778": {
+                                "name": "Différences compensées par couverture de change"
+                            }
+                        }
+                    },
+                    "478": {
+                        "name": "Autres comptes transitoires"
+                    }
+                }
+            },
+            "48": {
+                "name": "Comptes de régularisation",
+                "content": {
+                    "481": {
+                        "name": "Charges à répartir sur plusieurs exercices",
+                        "content": {
+                            "4816": {
+                                "name": "Frais d'émission des emprunts"
+                            }
+                        }
+                    },
+                    "486": {
+                        "name": "Charges constatées d'avance"
+                    },
+                    "487": {
+                        "name": "Produits constatés d'avance"
+                    },
+                    "488": {
+                        "name": "Comptes de répartition périodique des charges et des produits",
+                        "content": {
+                            "4886": {
+                                "name": "Charges"
+                            },
+                            "4887": {
+                                "name": "Produits"
+                            }
+                        }
+                    }
+                }
+            },
+            "49": {
+                "name": "Dépréciations des comptes de tiers",
+                "content": {
+                    "491": {
+                        "name": "Dépréciations des comptes de clients"
+                    },
+                    "495": {
+                        "name": "Dépréciations des comptes du groupe et des associés",
+                        "content": {
+                            "4951": {
+                                "name": "Comptes du groupe"
+                            },
+                            "4955": {
+                                "name": "Comptes courants des associés"
+                            },
+                            "4958": {
+                                "name": "Opérations faites en commun et en GIE"
+                            }
+                        }
+                    },
+                    "496": {
+                        "name": "Dépréciations des comptes de débiteurs divers",
+                        "content": {
+                            "4962": {
+                                "name": "Créances sur cessions d'immobilisations"
+                            },
+                            "4965": {
+                                "name": "Créances sur cessions de valeurs mobilières de placement"
+                            },
+                            "4967": {
+                                "name": "Autres comptes débiteurs"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 5,
+        "name": "Classe 5 : Comptes financiers",
+        "content": {
+            "50": {
+                "name": "Valeurs mobilières de placement",
+                "content": {
+                    "501": {
+                        "name": "Parts dans des entreprises liées"
+                    },
+                    "502": {
+                        "name": "Actions propres",
+                        "content": {
+                            "5021": {
+                                "name": "Actons destinées à être attribuées aux employés et affectées à des plans déterminés"
+                            },
+                            "5022": {
+                                "name": "Actons disponibles pour être attribuées aux employés ou pour la régularisation des cours de bourse"
+                            }
+                        }
+                    },
+                    "503": {
+                        "name": "Actions",
+                        "content": {
+                            "5031": {
+                                "name": "Titres cotés"
+                            },
+                            "5035": {
+                                "name": "Titres non cotés"
+                            }
+                        }
+                    },
+                    "504": {
+                        "name": "Autres titres conférant un droit de propriété"
+                    },
+                    "505": {
+                        "name": "Obligations et bons émis par la société et rachetés par elle"
+                    },
+                    "506": {
+                        "name": "Obligations",
+                        "content": {
+                            "5061": {
+                                "name": "Titres cotés"
+                            },
+                            "5065": {
+                                "name": "Titres non cotés"
+                            }
+                        }
+                    },
+                    "507": {
+                        "name": "Bons du Trésor et bons de caisse à court terme"
+                    },
+                    "508": {
+                        "name": "Autres valeurs mobilières de placement et autres créances assimilées",
+                        "content": {
+                            "5081": {
+                                "name": "Autres valeurs mobilières"
+                            },
+                            "5082": {
+                                "name": "Bons de souscription"
+                            },
+                            "5088": {
+                                "name": "Intérêts courus sur obligations, bons et valeurs assimilés"
+                            }
+                        }
+                    },
+                    "509": {
+                        "name": "Versements restant à effectuer sur valeurs mobilières de placement non libérées"
+                    }
+                }
+            },
+            "51": {
+                "name": "Banques, établissements financiers et assimilés",
+                "content": {
+                    "511": {
+                        "name": "Valeurs à l'encaissement",
+                        "content": {
+                            "5111": {
+                                "name": "Coupons échus à l'encaissement"
+                            },
+                            "5112": {
+                                "name": "Chèques à encaisser"
+                            },
+                            "5113": {
+                                "name": "Effets à l'encaissement"
+                            },
+                            "5114": {
+                                "name": "Effets à l'escompte"
+                            }
+                        }
+                    },
+                    "512": {
+                        "name": "Banques",
+                        "content": {
+                            "5121": {
+                                "name": "Comptes en monnaie nationale"
+                            },
+                            "5124": {
+                                "name": "Comptes en devises"
+                            }
+                        }
+                    },
+                    "514": {
+                        "name": "Chèques postaux"
+                    },
+                    "515": {
+                        "name": "\" Caisses \" du Trésor et des établissements publics"
+                    },
+                    "516": {
+                        "name": "Sociétés de bourse"
+                    },
+                    "517": {
+                        "name": "Autres organismes financiers"
+                    },
+                    "518": {
+                        "name": "Intérêts courus",
+                        "content": {
+                            "5181": {
+                                "name": "Intérêts courus à payer"
+                            },
+                            "5188": {
+                                "name": "Intérêts courus à recevoir"
+                            }
+                        }
+                    },
+                    "519": {
+                        "name": "Concours bancaires courants",
+                        "content": {
+                            "5191": {
+                                "name": "Crédit de mobilisation de créances commerciales"
+                            },
+                            "5193": {
+                                "name": "Mobilisation de créances nées à l'étranger"
+                            },
+                            "5198": {
+                                "name": "Intérêts courus sur concours bancaires courants"
+                            }
+                        }
+                    }
+                }
+            },
+            "52": {
+                "name": "Instruments de trésorerie"
+            },
+            "53": {
+                "name": "Caisse",
+                "content": {
+                    "531": {
+                        "name": "Caisse siège social",
+                        "content": {
+                            "5311": {
+                                "name": "Caisse en monnaie nationale"
+                            },
+                            "5314": {
+                                "name": "Caisse en devises"
+                            }
+                        }
+                    },
+                    "532": {
+                        "name": "Caisse succursale (ou usine) A"
+                    },
+                    "533": {
+                        "name": "Caisse succursale (ou usine) B"
+                    }
+                }
+            },
+            "54": {
+                "name": "Régies d'avance et accréditifs"
+            },
+            "58": {
+                "name": "Virements internes"
+            },
+            "59": {
+                "name": "Dépréciations des comptes financiers",
+                "content": {
+                    "590": {
+                        "name": "Dépréciations des valeurs mobilières de placement",
+                        "content": {
+                            "5903": {
+                                "name": "Actions"
+                            },
+                            "5904": {
+                                "name": "Autres titres conférant un droit de propriété"
+                            },
+                            "5906": {
+                                "name": "Obligations"
+                            },
+                            "5908": {
+                                "name": "Autres valeurs mobilières de placement et créances assimilées"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 6,
+        "name": "Classe 6 : Comptes de charges",
+        "content": {
+            "60": {
+                "name": "Achats (sauf 603)",
+                "content": {
+                    "601": {
+                        "name": "Achats stockés - Matières premières (et fournitures)",
+                        "content": {
+                            "6011": {
+                                "name": "Matières (ou groupe) A"
+                            },
+                            "6012": {
+                                "name": "Matières (ou groupe) B"
+                            },
+                            "6017": {
+                                "name": "Fournitures A, B, C,"
+                            }
+                        }
+                    },
+                    "602": {
+                        "name": "Achats stockés - Autres approvisionnements",
+                        "content": {
+                            "6021": {
+                                "name": "Matières consommables",
+                                "content": {
+                                    "60211": {
+                                        "name": "Matières (ou groupe) C"
+                                    },
+                                    "60212": {
+                                        "name": "Matières (ou groupe) D"
+                                    }
+                                }
+                            },
+                            "6022": {
+                                "name": "Fournitures consommables",
+                                "content": {
+                                    "60221": {
+                                        "name": "Combustibles"
+                                    },
+                                    "60222": {
+                                        "name": "Produits d'entretien"
+                                    },
+                                    "60223": {
+                                        "name": "Fournitures d'atelier et d'usine"
+                                    },
+                                    "60224": {
+                                        "name": "Fournitures de magasin"
+                                    },
+                                    "60225": {
+                                        "name": "Fourniture de bureau"
+                                    }
+                                }
+                            },
+                            "6026": {
+                                "name": "Emballages",
+                                "content": {
+                                    "60261": {
+                                        "name": "Emballages perdus"
+                                    },
+                                    "60265": {
+                                        "name": "Emballages récupérables non identifiables"
+                                    },
+                                    "60267": {
+                                        "name": "Emballages à usage mixte"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "603": {
+                        "name": "Variations des stocks (approvisionnements et marchandises)",
+                        "content": {
+                            "6031": {
+                                "name": "Variation des stocks de matières premières (et fournitures)"
+                            },
+                            "6032": {
+                                "name": "Variation des stocks des autres approvisionnements"
+                            },
+                            "6037": {
+                                "name": "Variation des stocks de marchandises"
+                            }
+                        }
+                    },
+                    "604": {
+                        "name": "Achats d'études et prestations de services"
+                    },
+                    "605": {
+                        "name": "Achats de matériel, équipements et travaux"
+                    },
+                    "606": {
+                        "name": "Achats non stockés de matière et fournitures",
+                        "content": {
+                            "6061": {
+                                "name": "Fournitures non stockables (eau, énergie, …)"
+                            },
+                            "6063": {
+                                "name": "Fournitures d'entretien et de petit équipement"
+                            },
+                            "6064": {
+                                "name": "Fournitures administratives"
+                            },
+                            "6068": {
+                                "name": "Autres matières et fournitures"
+                            }
+                        }
+                    },
+                    "607": {
+                        "name": "Achats de marchandises",
+                        "content": {
+                            "6071": {
+                                "name": "Marchandise (ou groupe) A"
+                            },
+                            "6072": {
+                                "name": "Marchandise (ou groupe) B"
+                            }
+                        }
+                    },
+                    "608": {
+                        "name": "(Compte réservé, le cas échéant, à la récapitulation des frais accessoires incorporés aux achats)"
+                    },
+                    "609": {
+                        "name": "Rabais, remises et ristournes obtenus sur achats",
+                        "content": {
+                            "6091": {
+                                "name": "de matières premières (et fournitures)"
+                            },
+                            "6092": {
+                                "name": "d'autres approvisionnements stockés"
+                            },
+                            "6094": {
+                                "name": "d'études et prestations de services"
+                            },
+                            "6095": {
+                                "name": "de matériel, équipements et travaux"
+                            },
+                            "6096": {
+                                "name": "d'approvisionnements non stockés"
+                            },
+                            "6097": {
+                                "name": "de marchandises"
+                            },
+                            "6098": {
+                                "name": "Rabais, remises et ristournes non affectés"
+                            }
+                        }
+                    }
+                }
+            },
+            "61": {
+                "name": "Services extérieurs",
+                "content": {
+                    "611": {
+                        "name": "Sous-traitance générale"
+                    },
+                    "612": {
+                        "name": "Redevances de crédit-bail",
+                        "content": {
+                            "6122": {
+                                "name": "Crédit-bail mobilier"
+                            },
+                            "6125": {
+                                "name": "Crédit-bail immobilier"
+                            }
+                        }
+                    },
+                    "613": {
+                        "name": "Locations",
+                        "content": {
+                            "6132": {
+                                "name": "Locations immobilières"
+                            },
+                            "6135": {
+                                "name": "Locations mobilières"
+                            },
+                            "6136": {
+                                "name": "Malis sur emballages"
+                            }
+                        }
+                    },
+                    "614": {
+                        "name": "Charges locatives et de copropriété"
+                    },
+                    "615": {
+                        "name": "Entretien et réparations",
+                        "content": {
+                            "6152": {
+                                "name": "sur biens immobiliers"
+                            },
+                            "6155": {
+                                "name": "sur biens mobiliers"
+                            },
+                            "6156": {
+                                "name": "Maintenance"
+                            }
+                        }
+                    },
+                    "616": {
+                        "name": "Primes d'assurances",
+                        "content": {
+                            "6161": {
+                                "name": "Multirisques"
+                            },
+                            "6162": {
+                                "name": "Assurance obligatoire dommage construction"
+                            },
+                            "6163": {
+                                "name": "Assurance - transport",
+                                "content": {
+                                    "61636": {
+                                        "name": "sur achats"
+                                    },
+                                    "61637": {
+                                        "name": "sur ventes"
+                                    },
+                                    "61638": {
+                                        "name": "sur autres biens"
+                                    }
+                                }
+                            },
+                            "6164": {
+                                "name": "Risques d'exploitation"
+                            },
+                            "6165": {
+                                "name": "Insolvabilité clients"
+                            }
+                        }
+                    },
+                    "617": {
+                        "name": "Etudes et recherches"
+                    },
+                    "618": {
+                        "name": "Divers",
+                        "content": {
+                            "6181": {
+                                "name": "Documentation générale"
+                            },
+                            "6183": {
+                                "name": "Documentation technique"
+                            },
+                            "6185": {
+                                "name": "Frais de colloques, séminaires, conférences"
+                            }
+                        }
+                    },
+                    "619": {
+                        "name": "Rabais, remises et ristournes obtenus sur services extérieurs"
+                    }
+                }
+            },
+            "62": {
+                "name": "Autres services extérieurs",
+                "content": {
+                    "621": {
+                        "name": "Personnel extérieur à l'entreprise",
+                        "content": {
+                            "6211": {
+                                "name": "Personnel intérimaire"
+                            },
+                            "6214": {
+                                "name": "Personnel détaché ou prêté à l'entreprise"
+                            }
+                        }
+                    },
+                    "622": {
+                        "name": "Rémunérations d'intermédiaires et honoraires",
+                        "content": {
+                            "6221": {
+                                "name": "Commissions et courtages sur achats"
+                            },
+                            "6222": {
+                                "name": "Commissions et courtages sur ventes"
+                            },
+                            "6224": {
+                                "name": "Rémunérations des transitaires"
+                            },
+                            "6225": {
+                                "name": "Rémunérations d'affacturage"
+                            },
+                            "6226": {
+                                "name": "Honoraires"
+                            },
+                            "6227": {
+                                "name": "Frais d'actes et de contentieux"
+                            },
+                            "6228": {
+                                "name": "Divers"
+                            }
+                        }
+                    },
+                    "623": {
+                        "name": "Publicité, publications, relations publiques",
+                        "content": {
+                            "6231": {
+                                "name": "Annonces et insertions"
+                            },
+                            "6232": {
+                                "name": "Echantillons"
+                            },
+                            "6233": {
+                                "name": "Foires et expositions"
+                            },
+                            "6234": {
+                                "name": "Cadeaux à la clientèle"
+                            },
+                            "6235": {
+                                "name": "Primes"
+                            },
+                            "6236": {
+                                "name": "Catalogues et imprimés"
+                            },
+                            "6237": {
+                                "name": "Publications"
+                            },
+                            "6238": {
+                                "name": "Divers (pourboires, dons courants, …)"
+                            }
+                        }
+                    },
+                    "624": {
+                        "name": "Transports de biens et transports collectifs du personnel",
+                        "content": {
+                            "6241": {
+                                "name": "Transports sur achats"
+                            },
+                            "6242": {
+                                "name": "Transports sur ventes"
+                            },
+                            "6243": {
+                                "name": "Transports entre établissements ou chantiers"
+                            },
+                            "6244": {
+                                "name": "Transports administratifs"
+                            },
+                            "6247": {
+                                "name": "Transports collectifs du personnel"
+                            },
+                            "6248": {
+                                "name": "Divers"
+                            }
+                        }
+                    },
+                    "625": {
+                        "name": "Déplacements, missions et réceptions",
+                        "content": {
+                            "6251": {
+                                "name": "Voyages et déplacements"
+                            },
+                            "6255": {
+                                "name": "Frais de déménagement"
+                            },
+                            "6256": {
+                                "name": "Missions"
+                            },
+                            "6257": {
+                                "name": "Réceptions"
+                            }
+                        }
+                    },
+                    "626": {
+                        "name": "Frais postaux et de télécommunications"
+                    },
+                    "627": {
+                        "name": "Services bancaires et assimilés",
+                        "content": {
+                            "6271": {
+                                "name": "Frais sur titres (achat, vente, garde)"
+                            },
+                            "6272": {
+                                "name": "Commissions et frais sur émission d'emprunts"
+                            },
+                            "6275": {
+                                "name": "Frais sur effets"
+                            },
+                            "6276": {
+                                "name": "Location de coffres"
+                            },
+                            "6278": {
+                                "name": "Autres frais et commissions sur prestations de services"
+                            }
+                        }
+                    },
+                    "628": {
+                        "name": "Divers",
+                        "content": {
+                            "6281": {
+                                "name": "Concours divers (cotisations, )"
+                            },
+                            "6284": {
+                                "name": "Frais de recrutement de personnel"
+                            }
+                        }
+                    },
+                    "629": {
+                        "name": "Rabais, remises et ristournes obtenus sur autres services extérieurs"
+                    }
+                }
+            },
+            "63": {
+                "name": "Impôts, taxes et versements assimilés",
+                "content": {
+                    "631": {
+                        "name": "Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts)",
+                        "content": {
+                            "6311": {
+                                "name": "Taxe sur les salaires"
+                            },
+                            "6312": {
+                                "name": "Taxe d'apprentissage"
+                            },
+                            "6313": {
+                                "name": "Participation des employeurs à la formation professionnelle continue"
+                            },
+                            "6314": {
+                                "name": "Cotisation pour défaut d'investissement obligatoire dans la construction"
+                            },
+                            "6318": {
+                                "name": "Autres"
+                            }
+                        }
+                    },
+                    "633": {
+                        "name": "Impôts, taxes et versements assimilés sur rémunérations (autres organismes)",
+                        "content": {
+                            "6331": {
+                                "name": "Versement de transport"
+                            },
+                            "6332": {
+                                "name": "Allocations logement"
+                            },
+                            "6333": {
+                                "name": "Participation des employeurs à la formation professionnelle continue"
+                            },
+                            "6334": {
+                                "name": "Participation des employeurs à l'effort de construction"
+                            },
+                            "6335": {
+                                "name": "Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage"
+                            },
+                            "6338": {
+                                "name": "Autres"
+                            }
+                        }
+                    },
+                    "635": {
+                        "name": "Autres impôts, taxes et versements assimilés (administrations des impôts)",
+                        "content": {
+                            "6351": {
+                                "name": "Impôts directs (sauf impôts sur les bénéfices)",
+                                "content": {
+                                    "63511": {
+                                        "name": "Contribution économique territoriale"
+                                    },
+                                    "63512": {
+                                        "name": "Taxes foncières"
+                                    },
+                                    "63513": {
+                                        "name": "Autres impôts locaux"
+                                    },
+                                    "63514": {
+                                        "name": "Taxe sur les véhicules des sociétés"
+                                    }
+                                }
+                            },
+                            "6352": {
+                                "name": "Taxe sur le chiffre d'affaires non récupérables"
+                            },
+                            "6353": {
+                                "name": "Impôts indirects"
+                            },
+                            "6354": {
+                                "name": "Droits d'enregistrement et de timbre",
+                                "content": {
+                                    "63541": {
+                                        "name": "Droits de mutation"
+                                    }
+                                }
+                            },
+                            "6358": {
+                                "name": "Autres droits"
+                            }
+                        }
+                    },
+                    "637": {
+                        "name": "Autres impôts, taxes et versements assimilés (autres organismes)",
+                        "content": {
+                            "6371": {
+                                "name": "Contribution sociale de solidarité à la charge des sociétés"
+                            },
+                            "6372": {
+                                "name": "Taxes perçues par les organismes publics internationaux"
+                            },
+                            "6374": {
+                                "name": "Impôts et taxes exigibles à l'Etranger"
+                            },
+                            "6378": {
+                                "name": "Taxes diverses"
+                            }
+                        }
+                    }
+                }
+            },
+            "64": {
+                "name": "Charges de personnel",
+                "content": {
+                    "641": {
+                        "name": "Rémunérations du personnel",
+                        "content": {
+                            "6411": {
+                                "name": "Salaires, appointements"
+                            },
+                            "6412": {
+                                "name": "Congés payés"
+                            },
+                            "6413": {
+                                "name": "Primes et gratifications"
+                            },
+                            "6414": {
+                                "name": "Indemnités et avantages divers"
+                            },
+                            "6415": {
+                                "name": "Supplément familial"
+                            }
+                        }
+                    },
+                    "644": {
+                        "name": "Rémunération du travail de l'exploitant"
+                    },
+                    "645": {
+                        "name": "Charges de sécurité sociale et de prévoyance",
+                        "content": {
+                            "6451": {
+                                "name": "Cotisations à l'URSSAF"
+                            },
+                            "6452": {
+                                "name": "Cotisations aux mutuelles"
+                            },
+                            "6453": {
+                                "name": "Cotisations aux caisses de retraites"
+                            },
+                            "6454": {
+                                "name": "Cotisations aux ASSEDIC"
+                            },
+                            "6458": {
+                                "name": "Cotisations aux autres organismes sociaux"
+                            }
+                        }
+                    },
+                    "646": {
+                        "name": "Cotisations sociales personnelles de l'exploitant"
+                    },
+                    "647": {
+                        "name": "Autres charges sociales",
+                        "content": {
+                            "6471": {
+                                "name": "Prestations directes"
+                            },
+                            "6472": {
+                                "name": "Versements aux comités d'entreprise et d'établissement"
+                            },
+                            "6473": {
+                                "name": "Versements aux comités d'hygiène et de sécurité"
+                            },
+                            "6474": {
+                                "name": "Versements aux autres œuvres sociales"
+                            },
+                            "6475": {
+                                "name": "Médecine du travail, pharmacie"
+                            }
+                        }
+                    },
+                    "648": {
+                        "name": "Autres charges de personnel"
+                    }
+                }
+            },
+            "65": {
+                "name": "Autres charges de gestion courante",
+                "content": {
+                    "651": {
+                        "name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires",
+                        "content": {
+                            "6511": {
+                                "name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels"
+                            },
+                            "6516": {
+                                "name": "Droits d'auteur et de reproduction"
+                            },
+                            "6518": {
+                                "name": "Autres droits et valeurs similaires"
+                            }
+                        }
+                    },
+                    "653": {
+                        "name": "Jetons de présence"
+                    },
+                    "654": {
+                        "name": "Pertes sur créances irrécouvrables",
+                        "content": {
+                            "6541": {
+                                "name": "Créances de l'exercice"
+                            },
+                            "6544": {
+                                "name": "Créances des exercices antérieurs"
+                            }
+                        }
+                    },
+                    "655": {
+                        "name": "Quote-part de résultat sur opérations faites en commun",
+                        "content": {
+                            "6551": {
+                                "name": "Quote-part de bénéfice transférée (comptabilité du gérant)"
+                            },
+                            "6555": {
+                                "name": "Quote-part de perte supportée (comptabilité des associés non gérants)"
+                            }
+                        }
+                    },
+                    "658": {
+                        "name": "Charges diverses de gestion courante"
+                    }
+                }
+            },
+            "66": {
+                "name": "Charges financières",
+                "content": {
+                    "661": {
+                        "name": "Charges d'intérêts",
+                        "content": {
+                            "6611": {
+                                "name": "Intérêts des emprunts et dettes",
+                                "content": {
+                                    "66116": {
+                                        "name": "des emprunts et dettes assimilées"
+                                    },
+                                    "66117": {
+                                        "name": "des dettes rattachées à des participations"
+                                    }
+                                }
+                            },
+                            "6612": {
+                                "name": "Charges de la fiducie, résultat de la période"
+                            },
+                            "6615": {
+                                "name": "Intérêts des comptes courants et des dépôts créditeurs"
+                            },
+                            "6616": {
+                                "name": "Intérêts bancaires et sur opérations de financement (escompte,...)"
+                            },
+                            "6617": {
+                                "name": "Intérêts des obligations cautionnées"
+                            },
+                            "6618": {
+                                "name": "Intérêts des autres dettes",
+                                "content": {
+                                    "66181": {
+                                        "name": "des dettes commerciales"
+                                    },
+                                    "66188": {
+                                        "name": "des dettes diverses"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "664": {
+                        "name": "Pertes sur créances liées à des participations"
+                    },
+                    "665": {
+                        "name": "Escomptes accordés"
+                    },
+                    "666": {
+                        "name": "Pertes de change"
+                    },
+                    "667": {
+                        "name": "Charges nettes sur cessions de valeurs mobilières de placement"
+                    },
+                    "668": {
+                        "name": "Autres charges financières"
+                    }
+                }
+            },
+            "67": {
+                "name": "Charges exceptionnelles",
+                "content": {
+                    "671": {
+                        "name": "Charges exceptionnelles sur opérations de gestion",
+                        "content": {
+                            "6711": {
+                                "name": "Pénalités sur marchés (et dédits payés sur achats et ventes)"
+                            },
+                            "6712": {
+                                "name": "Pénalités, amendes fiscales et pénales"
+                            },
+                            "6713": {
+                                "name": "Dons, libéralités"
+                            },
+                            "6714": {
+                                "name": "Créances devenues irrécouvrables dans l'exercice"
+                            },
+                            "6715": {
+                                "name": "Subventions accordées"
+                            },
+                            "6717": {
+                                "name": "Rappel d'impôts (autres qu'impôts sur les bénéfices)"
+                            },
+                            "6718": {
+                                "name": "Autres charges exceptionnelles sur opérations de gestion"
+                            }
+                        }
+                    },
+                    "672": {
+                        "name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs)"
+                    },
+                    "674": {
+                        "name": "Opérations de constitution ou liquidation des fiducies",
+                        "content": {
+                            "6741": {
+                                "name": "Opérations liées à la constitution de fiducie – Transfert des éléments"
+                            },
+                            "6742": {
+                                "name": "Opérations liées à la liquidation de la fiducie"
+                            }
+                        }
+                    },
+                    "675": {
+                        "name": "Valeurs comptables des éléments d'actif cédés",
+                        "content": {
+                            "6751": {
+                                "name": "Immobilisations incorporelles"
+                            },
+                            "6752": {
+                                "name": "Immobilisations corporelles"
+                            },
+                            "6756": {
+                                "name": "Immobilisations financières"
+                            },
+                            "6758": {
+                                "name": "Autres éléments d'actif"
+                            }
+                        }
+                    },
+                    "678": {
+                        "name": "Autres charges exceptionnelles",
+                        "content": {
+                            "6781": {
+                                "name": "Malis provenant de clauses d'indexation"
+                            },
+                            "6782": {
+                                "name": "Lots"
+                            },
+                            "6783": {
+                                "name": "Malis provenant du rachat par l'entreprise d'actions et obligations émises par ellemême"
+                            },
+                            "6788": {
+                                "name": "Charges exceptionnelles diverses"
+                            }
+                        }
+                    }
+                }
+            },
+            "68": {
+                "name": "Dotations aux amortissements, aux dépréciations et aux provisions",
+                "content": {
+                    "681": {
+                        "name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges d'exploitation",
+                        "content": {
+                            "6811": {
+                                "name": "Dotations aux amortissements sur immobilisations incorporelles et corporelles",
+                                "content": {
+                                    "68111": {
+                                        "name": "Immobilisations incorporelles"
+                                    },
+                                    "68112": {
+                                        "name": "Immobilisations corporelles"
+                                    }
+                                }
+                            },
+                            "6812": {
+                                "name": "Dotations aux amortissements des charges d'exploitation à répartir"
+                            },
+                            "6815": {
+                                "name": "Dotations aux provisions d'exploitation"
+                            },
+                            "6816": {
+                                "name": "Dotations pour dépréciations des immobilisations incorporelles et corporelles",
+                                "content": {
+                                    "68161": {
+                                        "name": "Immobilisations incorporelles"
+                                    },
+                                    "68162": {
+                                        "name": "Immobilisations corporelles"
+                                    }
+                                }
+                            },
+                            "6817": {
+                                "name": "Dotations pour dépréciations des actifs circulants",
+                                "content": {
+                                    "68173": {
+                                        "name": "Stocks et en-cours"
+                                    },
+                                    "68174": {
+                                        "name": "Créances"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "686": {
+                        "name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges financières",
+                        "content": {
+                            "6861": {
+                                "name": "Dotations aux amortissements des primes de remboursement des obligations"
+                            },
+                            "6865": {
+                                "name": "Dotations aux provisions financières"
+                            },
+                            "6866": {
+                                "name": "Dotations pour dépréciations des éléments financiers",
+                                "content": {
+                                    "68662": {
+                                        "name": "Immobilisations financières"
+                                    },
+                                    "68665": {
+                                        "name": "Valeurs mobilières de placement"
+                                    }
+                                }
+                            },
+                            "6868": {
+                                "name": "Autres dotations"
+                            }
+                        }
+                    },
+                    "687": {
+                        "name": "Dotations aux amortissements, aux dépréciations et aux provisions - Charges exceptionnelles",
+                        "content": {
+                            "6871": {
+                                "name": "Dotations aux amortissements exceptionnels des immobilisations"
+                            },
+                            "6872": {
+                                "name": "Dotations aux provisions réglementées (immobilisations)",
+                                "content": {
+                                    "68725": {
+                                        "name": "Amortissements dérogatoires"
+                                    }
+                                }
+                            },
+                            "6873": {
+                                "name": "Dotations aux provisions réglementées (stocks)"
+                            },
+                            "6874": {
+                                "name": "Dotations aux autres provisions réglementées"
+                            },
+                            "6875": {
+                                "name": "Dotations aux provisions exceptionnelles"
+                            },
+                            "6876": {
+                                "name": "Dotations pour dépréciations exceptionnelles"
+                            }
+                        }
+                    }
+                }
+            },
+            "69": {
+                "name": "Participation des salariés - Impôts sur les bénéfices et assimilés",
+                "content": {
+                    "691": {
+                        "name": "Participation des salariés aux résultats"
+                    },
+                    "695": {
+                        "name": "Impôts sur les bénéfices",
+                        "content": {
+                            "6951": {
+                                "name": "Impôts dus en France"
+                            },
+                            "6952": {
+                                "name": "Contribution additionnelle à l'impôt sur les bénéfices"
+                            },
+                            "6954": {
+                                "name": "Impôts dus à l'étranger"
+                            }
+                        }
+                    },
+                    "696": {
+                        "name": "Suppléments d'impôt sur les sociétés liés aux distributions"
+                    },
+                    "698": {
+                        "name": "Intégration fiscale",
+                        "content": {
+                            "6981": {
+                                "name": "Intégration fiscale - Charges"
+                            },
+                            "6989": {
+                                "name": "Intégration fiscale - Produits"
+                            }
+                        }
+                    },
+                    "699": {
+                        "name": "Produits - Reports en arrière des déficits"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "class": 7,
+        "name": "Classe 7 : Comptes de produits",
+        "content": {
+            "70": {
+                "name": "Ventes de produits fabriqués, prestations de services, marchandises",
+                "content": {
+                    "701": {
+                        "name": "Ventes de produits finis",
+                        "content": {
+                            "7011": {
+                                "name": "Produits finis (ou groupe) A"
+                            },
+                            "7012": {
+                                "name": "Produits finis (ou groupe) B"
+                            }
+                        }
+                    },
+                    "702": {
+                        "name": "Ventes de produits intermédiaires"
+                    },
+                    "703": {
+                        "name": "Ventes de produits résiduels"
+                    },
+                    "704": {
+                        "name": "Travaux",
+                        "content": {
+                            "7041": {
+                                "name": "Travaux de catégorie (ou activité) A"
+                            },
+                            "7042": {
+                                "name": "Travaux de catégorie (ou activité) B"
+                            }
+                        }
+                    },
+                    "705": {
+                        "name": "Etudes"
+                    },
+                    "706": {
+                        "name": "Prestations de services"
+                    },
+                    "707": {
+                        "name": "Ventes de marchandises",
+                        "content": {
+                            "7071": {
+                                "name": "Marchandises (ou groupe) A"
+                            },
+                            "7072": {
+                                "name": "Marchandises (ou groupe) B"
+                            }
+                        }
+                    },
+                    "708": {
+                        "name": "Produits des activités annexes",
+                        "content": {
+                            "7081": {
+                                "name": "Produits des services exploités dans l'intérêt du personnel"
+                            },
+                            "7082": {
+                                "name": "Commissions et courtages"
+                            },
+                            "7083": {
+                                "name": "Locations diverses"
+                            },
+                            "7084": {
+                                "name": "Mise à disposition de personnel facturée"
+                            },
+                            "7085": {
+                                "name": "Ports et frais accessoires facturés"
+                            },
+                            "7086": {
+                                "name": "Bonis sur reprises d'emballages consignés"
+                            },
+                            "7087": {
+                                "name": "Bonifications obtenues des clients et primes sur ventes"
+                            },
+                            "7088": {
+                                "name": "Autres produits d'activités annexes (cessions d'approvisionnements,)"
+                            }
+                        }
+                    },
+                    "709": {
+                        "name": "Rabais, remises et ristournes accordés par l'entreprise",
+                        "content": {
+                            "7091": {
+                                "name": "sur ventes de produits finis"
+                            },
+                            "7092": {
+                                "name": "sur ventes de produits intermédiaires"
+                            },
+                            "7094": {
+                                "name": "sur travaux"
+                            },
+                            "7095": {
+                                "name": "sur études"
+                            },
+                            "7096": {
+                                "name": "sur prestations de services"
+                            },
+                            "7097": {
+                                "name": "sur ventes de marchandises"
+                            },
+                            "7098": {
+                                "name": "sur produits des activités annexes"
+                            }
+                        }
+                    }
+                }
+            },
+            "71": {
+                "name": "Production stockée (ou déstockage)",
+                "content": {
+                    "713": {
+                        "name": "Variation des stocks (en-cours de production, produits)",
+                        "content": {
+                            "7133": {
+                                "name": "Variation des en-cours de production de biens",
+                                "content": {
+                                    "71331": {
+                                        "name": "Produits en cours"
+                                    },
+                                    "71335": {
+                                        "name": "Travaux en cours"
+                                    }
+                                }
+                            },
+                            "7134": {
+                                "name": "Variation des en-cours de production de services",
+                                "content": {
+                                    "71341": {
+                                        "name": "Etudes en cours"
+                                    },
+                                    "71345": {
+                                        "name": "Prestations de services en cours"
+                                    }
+                                }
+                            },
+                            "7135": {
+                                "name": "Variation des stocks de produits",
+                                "content": {
+                                    "71351": {
+                                        "name": "Produits intermédiaires"
+                                    },
+                                    "71355": {
+                                        "name": "Produits finis"
+                                    },
+                                    "71358": {
+                                        "name": "Produits résiduels"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "72": {
+                "name": "Production immobilisée",
+                "content": {
+                    "721": {
+                        "name": "Immobilisations incorporelles"
+                    },
+                    "722": {
+                        "name": "Immobilisations corporelles"
+                    }
+                }
+            },
+            "74": {
+                "name": "Subventions d'exploitation"
+            },
+            "75": {
+                "name": "Autres produits de gestion courante",
+                "content": {
+                    "751": {
+                        "name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires",
+                        "content": {
+                            "7511": {
+                                "name": "Redevances pour concessions, brevets, licences, marques, procédés, logiciels"
+                            },
+                            "7516": {
+                                "name": "Droits d'auteur et de reproduction"
+                            },
+                            "7518": {
+                                "name": "Autres droits et valeurs similaires"
+                            }
+                        }
+                    },
+                    "752": {
+                        "name": "Revenus des immeubles non affectés à des activités professionnelles"
+                    },
+                    "753": {
+                        "name": "Jetons de présence et rémunérations d'administrateurs, gérants,"
+                    },
+                    "754": {
+                        "name": "Ristournes perçues des coopératives (provenant des excédents)"
+                    },
+                    "755": {
+                        "name": "Quote-parts de résultat sur opérations faites en commun",
+                        "content": {
+                            "7551": {
+                                "name": "Quote-part de perte transférée (comptabilité du gérant)"
+                            },
+                            "7555": {
+                                "name": "Quote-part de bénéfice attribuée (comptabilité des associés non - gérants)"
+                            }
+                        }
+                    },
+                    "758": {
+                        "name": "Produits divers de gestion courante"
+                    }
+                }
+            },
+            "76": {
+                "name": "Produits financiers",
+                "content": {
+                    "761": {
+                        "name": "Produits de participations",
+                        "content": {
+                            "7611": {
+                                "name": "Revenus des titres de participation"
+                            },
+                            "7612": {
+                                "name": "Produits de la fiducie, résultat de la période"
+                            },
+                            "7616": {
+                                "name": "Revenus sur autres formes de participation"
+                            },
+                            "7617": {
+                                "name": "Revenus des créances rattachées à des participations"
+                            }
+                        }
+                    },
+                    "762": {
+                        "name": "Produits des autres immobilisations financières",
+                        "content": {
+                            "7621": {
+                                "name": "Revenus des titres immobilisés"
+                            },
+                            "7626": {
+                                "name": "Revenus des prêts"
+                            },
+                            "7627": {
+                                "name": "Revenus des créances immobilisées"
+                            }
+                        }
+                    },
+                    "763": {
+                        "name": "Revenus des autres créances",
+                        "content": {
+                            "7631": {
+                                "name": "Revenus des créances commerciales"
+                            },
+                            "7638": {
+                                "name": "Revenus des créances diverses"
+                            }
+                        }
+                    },
+                    "764": {
+                        "name": "Revenus des valeurs mobilières de placement"
+                    },
+                    "765": {
+                        "name": "Escomptes obtenus"
+                    },
+                    "766": {
+                        "name": "Gains de change"
+                    },
+                    "767": {
+                        "name": "Produits nets sur cessions de valeurs mobilières de placement"
+                    },
+                    "768": {
+                        "name": "Autres produits financiers"
+                    }
+                }
+            },
+            "77": {
+                "name": "Produits exceptionnels",
+                "content": {
+                    "771": {
+                        "name": "Produits exceptionnels sur opérations de gestion",
+                        "content": {
+                            "7711": {
+                                "name": "Dédits et pénalités perçus sur achats et sur ventes"
+                            },
+                            "7713": {
+                                "name": "Libéralités reçues"
+                            },
+                            "7714": {
+                                "name": "Rentrées sur créances amorties"
+                            },
+                            "7715": {
+                                "name": "Subventions d'équilibre"
+                            },
+                            "7717": {
+                                "name": "Dégrèvements d'impôts autres qu'impôts sur les bénéfices"
+                            },
+                            "7718": {
+                                "name": "Autres produits exceptionnels sur opérations de gestion"
+                            }
+                        }
+                    },
+                    "772": {
+                        "name": "(Compte à la disposition des entités pour enregistrer, en cours d'exercice, les produits sur exercices antérieurs)"
+                    },
+                    "774": {
+                        "name": "Opérations de constitution ou liquidation des fiducies",
+                        "content": {
+                            "7741": {
+                                "name": "Opérations liées à la constitution de fiducie – Transfert des éléments"
+                            },
+                            "7742": {
+                                "name": "Opérations liées à la liquidation de la fiducie"
+                            }
+                        }
+                    },
+                    "775": {
+                        "name": "Produits des cessions d'éléments d'actif",
+                        "content": {
+                            "7751": {
+                                "name": "Immobilisations incorporelles"
+                            },
+                            "7752": {
+                                "name": "Immobilisations corporelles"
+                            },
+                            "7756": {
+                                "name": "Immobilisations financières"
+                            },
+                            "7758": {
+                                "name": "Autres éléments d'actif"
+                            }
+                        }
+                    },
+                    "777": {
+                        "name": "Quote-part des subventions d'investissement virée au résultat de l'exercice"
+                    },
+                    "778": {
+                        "name": "Autres produits exceptionnels",
+                        "content": {
+                            "7781": {
+                                "name": "Bonis provenant de clauses d'indexation"
+                            },
+                            "7782": {
+                                "name": "Lots"
+                            },
+                            "7783": {
+                                "name": "Bonis provenant du rachat par l'entreprise d'actions et d'obligations émises par elle - même"
+                            },
+                            "7788": {
+                                "name": "Produits exceptionnels divers"
+                            }
+                        }
+                    }
+                }
+            },
+            "78": {
+                "name": "Reprises sur amortissements, dépréciations et provisions",
+                "content": {
+                    "781": {
+                        "name": "Reprises sur amortissements, dépréciations et provisions (à inscrire dans les produits d'exploitation)",
+                        "content": {
+                            "7811": {
+                                "name": "Reprises sur amortissements des immobilisations incorporelles et corporelles",
+                                "content": {
+                                    "78111": {
+                                        "name": "Immobilisations incorporelles"
+                                    },
+                                    "78112": {
+                                        "name": "Immobilisations corporelles"
+                                    }
+                                }
+                            },
+                            "7815": {
+                                "name": "Reprises sur provisions d'exploitation"
+                            },
+                            "7816": {
+                                "name": "Reprises sur dépréciations des immobilisations incorporelles et corporelles",
+                                "content": {
+                                    "78161": {
+                                        "name": "Immobilisations incorporelles"
+                                    },
+                                    "78162": {
+                                        "name": "Immobilisations corporelles"
+                                    }
+                                }
+                            },
+                            "7817": {
+                                "name": "Reprises sur dépréciations des actifs circulants",
+                                "content": {
+                                    "78173": {
+                                        "name": "Stocks et en-cours"
+                                    },
+                                    "78174": {
+                                        "name": "Créances"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "786": {
+                        "name": "Reprises sur provisions pour risques et dépréciations (à inscrire dans les produits financiers)",
+                        "content": {
+                            "7865": {
+                                "name": "Reprises sur provisions financières"
+                            },
+                            "7866": {
+                                "name": "Reprises sur dépréciations des éléments financiers",
+                                "content": {
+                                    "78662": {
+                                        "name": "Immobilisations financières"
+                                    },
+                                    "78665": {
+                                        "name": "Valeurs mobilières de placements"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "787": {
+                        "name": "Reprises sur provisions et dépréciations (à inscrire dans les produits exceptionnels)",
+                        "content": {
+                            "7872": {
+                                "name": "Reprises sur provisions réglementées (immobilisations)",
+                                "content": {
+                                    "78725": {
+                                        "name": "Amortissements dérogatoires"
+                                    },
+                                    "78726": {
+                                        "name": "Provision spéciale de réévaluation"
+                                    },
+                                    "78727": {
+                                        "name": "Plus-values réinvesties"
+                                    }
+                                }
+                            },
+                            "7873": {
+                                "name": "Reprises sur provisions réglementées (stocks)"
+                            },
+                            "7874": {
+                                "name": "Reprises sur autres provisions réglementées"
+                            },
+                            "7875": {
+                                "name": "Reprises sur provisions exceptionnelles"
+                            },
+                            "7876": {
+                                "name": "Reprises sur dépréciations exceptionnelles"
+                            }
+                        }
+                    }
+                }
+            },
+            "79": {
+                "name": "Transferts de charges",
+                "content": {
+                    "791": {
+                        "name": "Transferts de charges d'exploitation"
+                    },
+                    "796": {
+                        "name": "Transferts de charges financières"
+                    },
+                    "797": {
+                        "name": "Transferts de charges exceptionnelles"
+                    }
+                }
+            }
+        }
+    }
+]
