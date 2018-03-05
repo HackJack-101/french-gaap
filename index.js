@@ -11,12 +11,20 @@ function getDescription(code) {
 }
 
 function getHierarchy(code) {
+    if(code === undefined){
+        return undefined;
+    }
+
     code = code.toString();
+    if(code.length < 1){
+        return undefined;
+    }
 
     const classID = parseInt(code.charAt(0)) - 1;
     let result = {
         class: treeList[classID].name,
-        content: []
+        parents: [],
+        children: null,
     };
     let root = treeList[classID].content;
 
@@ -24,10 +32,12 @@ function getHierarchy(code) {
         let subCode = code.substr(0, i + 1);
 
         if (root[subCode]) {
-            result.content.push({code: subCode, name: root[subCode].name});
+            result.parents.push({code: subCode, name: root[subCode].name});
             root = root[subCode].content;
         }
     }
+
+    result.children = root;
 
     return result;
 }
