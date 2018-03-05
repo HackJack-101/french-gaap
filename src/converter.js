@@ -102,27 +102,26 @@ classes.forEach((c) => {
     treeResults.push(classResults);
 });
 
-fs.writeFile("./tree_list.json", JSON.stringify(treeResults, null, 4), function (err) {
+fs.writeFile("../lib/tree_list.json", JSON.stringify(treeResults, null, 4), function (err) {
     if (err) {
         return console.error(err);
     }
     console.log("tree_list.json DONE");
 });
-fs.writeFile("./tree_list.min.json", JSON.stringify(treeResults), function (err) {
+fs.writeFile("../lib/tree_list.min.json", JSON.stringify(treeResults), function (err) {
     if (err) {
         return console.error(err);
     }
     console.log("tree_list.min.json DONE");
 });
 
-console.log(flatResults);
-fs.writeFile("./flat_list.json", JSON.stringify(flatResults, null, 4), function (err) {
+fs.writeFile("../lib/flat_list.json", JSON.stringify(flatResults, null, 4), function (err) {
     if (err) {
         return console.error(err);
     }
     console.log("tree_list.json DONE");
 });
-fs.writeFile("./flat_list.min.json", JSON.stringify(flatResults), function (err) {
+fs.writeFile("../lib/flat_list.min.json", JSON.stringify(flatResults), function (err) {
     if (err) {
         return console.error(err);
     }
