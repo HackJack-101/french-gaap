@@ -5,15 +5,15 @@ List of the french generally accepted accounting principles, called Plan Comptab
 ## Installation
 
 ##### Using npm
-````
+```
 npm install french-gaap
-````
+```
 
 ##### In Node.js
 
-````
+```
 const gaap = require('./index.js');
-````
+```
 
 ## API
 
@@ -21,7 +21,7 @@ const gaap = require('./index.js');
 
 
 ##### Example
-````
+```
 const gaap = require('./index.js');
 
 console.log(gaap.getClass(1));
@@ -65,14 +65,14 @@ console.log(gaap.getClass(1));
         }
     }   
 }
-````
+```
 
 ### getDescription(id: number)
 
 
 
 ##### Example
-````
+```
 const gaap = require('./index.js');
 
 console.log(gaap.getHierarchy(2116));
@@ -80,14 +80,14 @@ console.log(gaap.getHierarchy(2116));
 // Output
 
 "Compte d'ordre sur immobilisations"
-````
+```
 
 ### getHierarchy(id: number)
 
 
 
 ##### Example
-````
+```
 const gaap = require('./index.js');
 
 console.log(gaap.getHierarchy(29787));
@@ -111,5 +111,5 @@ console.log(gaap.getHierarchy(29787));
         }
     ]
 }
-````
+```
 
