@@ -1,6 +1,6 @@
 {
   "name": "french-gaap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🇫🇷 🥐 The French generally accepted accounting principles, called Plan Comptable Général (PCG).",
   "main": "index.js",
   "scripts": {
