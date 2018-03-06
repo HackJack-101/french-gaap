@@ -11,16 +11,19 @@ function getDescription(code) {
 }
 
 function getHierarchy(code) {
-    if(code === undefined){
+    if (code === undefined) {
         return undefined;
     }
 
     code = code.toString();
-    if(code.length < 1){
+    if (code.length < 1) {
         return undefined;
     }
 
     const classID = parseInt(code.charAt(0)) - 1;
+    if (!treeList.hasOwnProperty(classID)) {
+        return undefined;
+    }
     let result = {
         class: treeList[classID].name,
         parents: [],
@@ -31,7 +34,7 @@ function getHierarchy(code) {
     for (let i = 1, codeSize = code.length; i < codeSize; i++) {
         let subCode = code.substr(0, i + 1);
 
-        if (root[subCode]) {
+        if (root !== undefined && root.hasOwnProperty(subCode)) {
             result.parents.push({code: subCode, name: root[subCode].name});
             root = root[subCode].content;
         }
